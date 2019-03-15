@@ -4,7 +4,7 @@
 **(The Killers)**  
 de Don Siegel  
 États-Unis / 1964  
-D'après la nouvelle _Les Tueurs_ d'Ernest Hemingway.  
+D'après la nouvelle « Les Tueurs » d'Ernest Hemingway.  
 Avec Lee Marvin, John Cassavetes, Angie Dickinson.  
 Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime.
 
@@ -45,7 +45,7 @@ Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble 
 **Big Trouble**  
 de John Cassavetes  
 États-Unis / 1984  
-Avec Peter Falk, Robert Stack, alan Arkin, Valerie Curtin.  
+Avec Peter Falk, Robert Stack, Alan Arkin, Valerie Curtin.  
 Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
 
 **La Cible étoilée**  
