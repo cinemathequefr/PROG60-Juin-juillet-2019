@@ -27,11 +27,6 @@ France / 1999
 Avec Raffaëla Anderson, Karen Bach, Céline Beugnot.  
 Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. (NB)
 
-**Bambi**  
-de Sébastien Lifshitz  
-France / 2012  
-Bambi est née en 1935 de sexe masculin sous le prénom de Jean-Pierre. Elle est une des premières transexuelles françaises.
-
 **Ben/O**  
 de Güldem Durmaz  
 Belgique-Turquie / 2011  
@@ -132,6 +127,11 @@ de João Pedro Rodrigues
 Portugal / 2000  
 Avec Ricardo Meneses, Beatriz Torcato, André Barbosa.  
 Récit d'une obsession sexuelle sur fond de décharge lisboète. (Olivier Nicklaus)
+
+**Farrah, l'Être Ange**  
+d'Alain Burosse, Jean-Baptiste Erreca, Sébastien Petit  
+France / 2012  
+De ses collages transgenres retrouvés à ses sensuelles photos « poilues », de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle FarraH. (Chéries Chéris)
 
 **Fast Trip, Long Drop**  
 de Gregg Bordowitz  
@@ -361,6 +361,11 @@ D'après la pièce _Salomé_ d'Oscar Wilde.
 Avec Alla Nazimova, Mitchell Lewis, Nigel De Brulier.  
 « Salomé, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde. » (NB)
 
+**Salon de T – Farrah Diod (Partie 1 et 2)**  
+de Hélène Hazéra, Christophe Martet  
+France / 2009  
+Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal +, « L'Œil du cyclone ». (Chéries Chéris)
+
 **Le Sang d'un poète**  
 de Jean Cocteau  
 France / 1930  
@@ -436,7 +441,7 @@ Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans 
 **Le Troisième œil**  
 d'André Almuro  
 France / 1989  
-Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'univers ébranlé par une branlette. »
+Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'univers bouleversé par une branlette. »
 
 **Un chant d'amour**  
 de Jean Genet  

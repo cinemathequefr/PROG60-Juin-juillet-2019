@@ -94,23 +94,6 @@
     ]
   },
   {
-    "titre": "Bambi",
-    "titreVo": "",
-    "idFilm": 120245,
-    "idCycle": 429,
-    "idCategorie": 1960,
-    "ageMinimal": 0,
-    "realisateurs": "Sébastien Lifshitz",
-    "annee": 2012,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Bambi est née en 1935 de sexe masculin sous le prénom de Jean-Pierre. Elle est une des premières transexuelles françaises."
-      }
-    ]
-  },
-  {
     "titre": "Ben/O",
     "titreVo": "",
     "idFilm": 141253,
@@ -462,6 +445,23 @@
       "Ricardo Meneses",
       "Beatriz Torcato",
       "André Barbosa"
+    ]
+  },
+  {
+    "titre": "Farrah, l'Être Ange",
+    "titreVo": "",
+    "idFilm": 141505,
+    "idCycle": 429,
+    "idCategorie": 1960,
+    "ageMinimal": 0,
+    "realisateurs": "Alain Burosse, Jean-Baptiste Erreca, Sébastien Petit",
+    "annee": 2012,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "De ses collages transgenres retrouvés à ses sensuelles photos « poilues », de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle FarraH. (Chéries Chéris)"
+      }
     ]
   },
   {
@@ -1249,6 +1249,23 @@
     "adaptation": "D'après la pièce _Salomé_ d'Oscar Wilde."
   },
   {
+    "titre": "Salon de T – Farrah Diod (Partie 1 et 2)",
+    "titreVo": "",
+    "idFilm": 141507,
+    "idCycle": 429,
+    "idCategorie": 1960,
+    "ageMinimal": 0,
+    "realisateurs": "Hélène Hazéra, Christophe Martet",
+    "annee": 2009,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal +, « L'Œil du cyclone ». (Chéries Chéris)"
+      }
+    ]
+  },
+  {
     "titre": "Sang d'un poète",
     "art": "Le",
     "titreVo": "",
@@ -1513,7 +1530,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'univers ébranlé par une branlette. »"
+        "texte": "Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'univers bouleversé par une branlette. »"
       }
     ]
   },
