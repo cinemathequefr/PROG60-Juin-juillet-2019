@@ -246,7 +246,7 @@ Fresque onirique de la Harlem Renaissance, fête explosive ponctuée par la voix
 de Jose Rodriguez-Soltero  
 États-Unis / 1966  
 Avec Mario Montez.  
-« L'originalité de José Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino. » (David Bernadas)
+« L'originalité de Jose Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino. » (David Bernadas)
 
 **Mahogany Too**  
 d'Akosua Adoma Owusu  
