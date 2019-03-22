@@ -25,7 +25,7 @@ Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de 
 de Virginie Despentes, Coralie Trinh Thi  
 France / 1999  
 Avec Raffaëla Anderson, Karen Bach, Céline Beugnot.  
-« Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. » (Nicole Brenez)
+« Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. » (Nicole Brenez)
 
 **Ben/O**  
 de Güldem Durmaz  
@@ -50,7 +50,7 @@ Grande-Bretagne / 2012
 Avec Angus Dunican, Danny Mahoney.  
 L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne.
 
-**Le Cavalier Noir**  
+**Le Cavalier noir**  
 **(The Singer Not the Song)**  
 de Roy Ward Baker  
 Grande-Bretagne / 1960  
@@ -108,7 +108,7 @@ de Barbara Hammer
 États-Unis / 1973  
 « L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (Barbara Hammer)
 
-**Equation à un inconnu**  
+**Équation à un inconnu**  
 de Dietrich de Velsa  
 France / 1994  
 Avec Jean-Jacques Loupmon, Gianfranco Longhi, Reinhard Montz.  
@@ -224,7 +224,7 @@ Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fasci
 **Lesborama**  
 de Nathalie Magnan  
 France / 1995  
-« Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. » (Nicole Brenez)
+« Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. » (Nicole Brenez)
 
 **Loads**  
 de Curt McDowell  
@@ -259,7 +259,7 @@ d'Angela Marzullo
 Suisse / 2008  
 « Makita en sorcière qui vole sur son balai. » (Angela Marzullo)
 
-**Manifestation contre la répression de l'homosexualité : Juin 1977**  
+**Manifestation contre la répression de l'homosexualité : juin 1977**  
 de Le lézard du péril mauve, Ortie 14  
 France / 1977  
 « Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. » (Stéphane Gérard)
@@ -298,12 +298,12 @@ L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libé
 **L'Ordre des mots**  
 de Cynthia Arra, Mélissa Arra  
 France / 2007  
-Une série de portrait qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes.
+Une série de portraits qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes.
 
 **Paixão nacional**  
 de Karim Aïnouz  
 Brésil-Canada / 1996  
-L'hypocrisie sexuelle à échelle nationale.
+« L'hypocrisie sexuelle à échelle nationale. »
 
 **Paradis perdu**  
 de Franssou Prenant  

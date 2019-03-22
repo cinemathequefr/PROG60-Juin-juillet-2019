@@ -12,7 +12,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Quand l'anonymat des lobbys d'hôtels rencontre un récit sincère sur la sexualité, l'intimité et le consentement derrière les portes closes. (SG)"
+        "texte": "Quand l'anonymat des lobbys d'hôtels rencontre un récit sincère sur la sexualité, l'intimité et le consentement derrière les portes closes."
       }
     ]
   },
@@ -29,7 +29,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Avant j'étais triste, j'habitais seul avec Maman, dans un grand appartement... (Jean-Gabriel Périot)"
+        "texte": "« Avant j'étais triste, j'habitais seul avec maman, dans un grand appartement... » (Jean-Gabriel Périot)"
       }
     ]
   },
@@ -46,7 +46,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York qui a rayonné sur la scène lesbienne de 1990 à 2002. (Aubin Pictures)"
+        "texte": "Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York, qui a rayonné sur la scène lesbienne de 1990 à 2002."
       }
     ]
   },
@@ -63,13 +63,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance. (SG)"
+        "texte": "Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance."
       }
     ],
-    "generique": [
-      "Kay Garnellen",
-      "Sadie Lune"
-    ]
+    "generique": ["Kay Garnellen", "Sadie Lune"]
   },
   {
     "titre": "Baise-moi",
@@ -84,14 +81,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. (NB)"
+        "texte": "« Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Raffaëla Anderson",
-      "Karen Bach",
-      "Céline Beugnot"
-    ]
+    "generique": ["Raffaëla Anderson", "Karen Bach", "Céline Beugnot"]
   },
   {
     "titre": "Ben/O",
@@ -106,12 +99,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde et militante féministe, se remet brièvement dans le costume, de l'homme qu'elle a cessé d'être depuis vingt ans. (Güldem Durmaz)"
+        "texte": "Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde et militante féministe, se remet brièvement dans le costume de l'homme qu'elle a cessé d'être depuis vingt ans."
       }
     ]
   },
   {
-    "titre": "Beware !",
+    "titre": "Beware!",
     "titreVo": "",
     "idFilm": 141255,
     "idCycle": 429,
@@ -123,16 +116,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une immersion parodique dans la transphobie des années cinquante. (SG)"
+        "texte": "Une immersion parodique dans la transphobie des années cinquante."
       }
     ],
-    "generique": [
-      "Lalla Kowska",
-      "Mattia Sieger"
-    ]
+    "generique": ["Lalla Kowska", "Mattia Sieger"]
   },
   {
-    "titre": "Born in flames",
+    "titre": "Born in Flames",
     "titreVo": "",
     "idFilm": 107314,
     "idCycle": 429,
@@ -147,11 +137,7 @@
         "texte": "Fable de science-fiction tournée caméra au poing dans le downtown new-yorkais rendant hommage comme jamais à une vision radicale dont la lucidité éclate à la manière d'un cocktail Molotov."
       }
     ],
-    "generique": [
-      "Honey",
-      "Adele Bertei",
-      "Jean Satterfield"
-    ]
+    "generique": ["Honey", "Adele Bertei", "Jean Satterfield"]
   },
   {
     "titre": "Bradley Manning Had Secrets",
@@ -166,16 +152,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne. (SG)"
+        "texte": "L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne."
       }
     ],
-    "generique": [
-      "Angus Dunican",
-      "Danny Mahoney"
-    ]
+    "generique": ["Angus Dunican", "Danny Mahoney"]
   },
   {
-    "titre": "Cavalier Noir",
+    "titre": "Cavalier noir",
     "art": "Le",
     "titreVo": "Singer Not the Song",
     "artVo": "The",
@@ -189,17 +172,17 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque."
+      },
+      {
+        "typeTexte": 9,
         "texte": "« Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste. » (Olivier Rossignot)"
       }
     ],
-    "generique": [
-      "Dirk Bogarde",
-      "John Mills",
-      "Mylène Demongeot"
-    ]
+    "generique": ["Dirk Bogarde", "John Mills", "Mylène Demongeot"]
   },
   {
-    "titre": "Chic Point : Fashion For Israeli Checkpoints",
+    "titre": "Chic Point: Fashion For Israeli Checkpoints",
     "titreVo": "",
     "idFilm": 141291,
     "idCycle": 429,
@@ -211,12 +194,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Boomerang d'ironie. (NB)"
+        "texte": "« Boomerang d'ironie. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Saleh Bakri"
-    ]
+    "generique": ["Saleh Bakri"]
   },
   {
     "titre": "Confessions",
@@ -231,14 +212,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Face caméra, l'auteur explique ses pratiques sexuelles à ses parents. (NB)"
+        "texte": "Face caméra, l'auteur explique ses pratiques sexuelles à ses parents."
       }
     ],
-    "generique": [
-      "Carla Cooper",
-      "Mark Hellinger",
-      "Ted Davis"
-    ]
+    "generique": ["Carla Cooper", "Mark Hellinger", "Ted Davis"]
   },
   {
     "titre": "Conte de Noël des Panthères Roses",
@@ -254,7 +231,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sur la liste de noël des Panthères roses, il y a une plateforme pour l'égalité des droits : il faudra descendre dans la rue pour l'obtenir (sauf si on croit au Père Noël)."
+        "texte": "« Sur la liste de Noël des Panthères roses, il y a une plateforme pour l'égalité des droits : il faudra descendre dans la rue pour l'obtenir (sauf si on croit au Père Noël). »"
       }
     ]
   },
@@ -271,7 +248,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Voyage amoureux dans les hauteurs d'une île et quelques vaches. (Collectif Jeune Cinéma)"
+        "texte": "Voyage amoureux dans les hauteurs d'une île, et quelques vaches."
       }
     ]
   },
@@ -288,7 +265,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À jamais le stade du miroir. (NB)"
+        "texte": "« À jamais le stade du miroir. » (Nicole Brenez)"
       }
     ]
   },
@@ -305,7 +282,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Aux commencements du cinéma, une valse gaie. (NB)"
+        "texte": "« Aux commencements du cinéma, une valse gaie. » (Nicole Brenez)"
       }
     ]
   },
@@ -322,7 +299,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Parodie et critique de l'hétérosexualité où l'on retrouve son amant, collaborateur et la superstar de Warhol, Ondine batifolant avec Sally Dixon dans un jardin victorien édénique. \\[Dirty Looks\\]"
+        "texte": "Parodie et critique de l'hétérosexualité où l'on retrouve Ondine – amant, collaborateur et superstar de Warhol – batifolant avec Sally Dixon dans un jardin victorien édénique."
       }
     ]
   },
@@ -340,14 +317,14 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent."
+      },
+      {
+        "typeTexte": 99,
         "texte": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)"
       }
     ],
-    "generique": [
-      "Rainer Werner Fassbinder",
-      "Peter Chatel",
-      "Karlheinz Böhm"
-    ]
+    "generique": ["Rainer Werner Fassbinder", "Peter Chatel", "Karlheinz Böhm"]
   },
   {
     "titre": "Dyketactics",
@@ -362,12 +339,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (BH)"
+        "texte": "« L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (Barbara Hammer)"
       }
     ]
   },
   {
-    "titre": "Equation à un inconnu",
+    "titre": "Équation à un inconnu",
     "titreVo": "",
     "idFilm": 132661,
     "idCycle": 429,
@@ -382,11 +359,7 @@
         "texte": "« L'acmé du porno mélancolique, mis en scène avec une grâce absolue par le mystérieux Dietrich de Velsa, peintre puis directeur artistique de la Grande Eugène qui réalise ici son unique film et néanmoins chef-d'œuvre. » (Yann Gonzalez)"
       }
     ],
-    "generique": [
-      "Jean-Jacques Loupmon",
-      "Gianfranco Longhi",
-      "Reinhard Montz"
-    ]
+    "generique": ["Jean-Jacques Loupmon", "Gianfranco Longhi", "Reinhard Montz"]
   },
   {
     "titre": "F.H.A.R. (Front Homosexuel d'Action Révolutionnaire)",
@@ -402,12 +375,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Nous ne nous contenterons pas de nous défendre, nous allons attaquer. » FHAR, Rapport contre la normalité (1971)."
+        "texte": "« Nous ne nous contenterons pas de nous défendre, nous allons attaquer. » (F.H.A.R., _Rapport contre la normalité_, 1971)"
       }
     ]
   },
   {
-    "titre": "Fall of Communism as Seen in Gay Pornography",
+    "titre": "Fall of Communism As Seen in Gay Pornography",
     "art": "The",
     "titreVo": "",
     "idFilm": 141242,
@@ -420,7 +393,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. (NB)"
+        "texte": "« L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. » (Nicole Brenez)"
       }
     ]
   },
@@ -438,14 +411,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Récit d'une obsession sexuelle sur fond de décharge lisboète. (Olivier Nicklaus)"
+        "texte": "Récit d'une obsession sexuelle sur fond de décharge lisboète."
       }
     ],
-    "generique": [
-      "Ricardo Meneses",
-      "Beatriz Torcato",
-      "André Barbosa"
-    ]
+    "generique": ["Ricardo Meneses", "Beatriz Torcato", "André Barbosa"]
   },
   {
     "titre": "Farrah, l'Être Ange",
@@ -460,7 +429,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "De ses collages transgenres retrouvés à ses sensuelles photos « poilues », de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle FarraH. (Chéries Chéris)"
+        "texte": "« De ses collages transgenres retrouvés à ses sensuelles photos \"poilues\", de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle Farrah. »"
       }
     ]
   },
@@ -477,7 +446,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Gregg Bordowitz utilise l'annonce de sa séropositivité comme levier pour analyser le rapport à la mort dans un pamphlet qui croise critique des médias, activisme et mise en scène d'archives. (SG)"
+        "texte": "Gregg Bordowitz utilise l'annonce de sa séropositivité comme levier pour analyser le rapport à la mort dans un pamphlet qui croise critique des médias, activisme et mise en scène d'archives."
       }
     ]
   },
@@ -494,17 +463,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Fireworks vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)"
+        "texte": "« _Fireworks_ vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)"
       }
     ],
-    "generique": [
-      "Kenneth Anger",
-      "Gordon Gray",
-      "Bill Seltzer"
-    ]
+    "generique": ["Kenneth Anger", "Gordon Gray", "Bill Seltzer"]
   },
   {
-    "titre": "Flaming creatures",
+    "titre": "Flaming Creatures",
     "titreVo": "",
     "idFilm": 58030,
     "idCycle": 429,
@@ -516,14 +481,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. (SG)"
+        "texte": "« Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. » (Stéphane Gérard)"
       }
     ],
-    "generique": [
-      "Francis Francine",
-      "Sheila Bick",
-      "Joel Markman"
-    ]
+    "generique": ["Francis Francine", "Sheila Bick", "Joel Markman"]
   },
   {
     "titre": "Gay ?",
@@ -538,7 +499,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un coming out : « Bonsoir, je suis gay, fier, bien dans ma peau, heureux, et j'aime me faire enculer... » (Jean-Gabriel Périot)"
+        "texte": "« Un coming out : \"Bonsoir, je suis gay, fier, bien dans ma peau, heureux, et j'aime me faire enculer...\" » (Jean-Gabriel Périot)"
       }
     ]
   },
@@ -572,7 +533,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un clip en forme de récapitulatif visuel des luttes queer. (NB)"
+        "texte": "Un clip en forme de récapitulatif visuel des luttes queer."
       }
     ]
   },
@@ -583,7 +544,7 @@
     "idCycle": 429,
     "idCategorie": 1976,
     "ageMinimal": 0,
-    "realisateurs": "Les Panthères Roses, Les DurEs à Queer",
+    "realisateurs": "Les Panthères Roses, Les Dures à queer",
     "annee": 2012,
     "pays": "France",
     "textes": [
@@ -606,7 +567,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisés par des femmes – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences « hardcore » peuvent être subverties. » (Amos Vogel)"
+        "texte": "« Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisé par une femme – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences _hardcore_ peuvent être subverties. » (Amos Vogel)"
       }
     ]
   },
@@ -640,14 +601,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« X est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)"
+        "texte": "« _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)"
       }
     ],
-    "generique": [
-      "Jean-François B.",
-      "François Dantchev",
-      "Karine"
-    ]
+    "generique": ["Jean-François B.", "François Dantchev", "Karine"]
   },
   {
     "titre": "Je ne sais pas qui je suis, mais je sais ce que je pense",
@@ -662,7 +619,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçues, quand se fige mon esprit. (Mathieu Morel)"
+        "texte": "« Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçues, quand se fige mon esprit. » (Mathieu Morel)"
       }
     ]
   },
@@ -679,14 +636,14 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie."
+      },
+      {
+        "typeTexte": 99,
         "texte": "« Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)"
       }
     ],
-    "generique": [
-      "Chantal Akerman",
-      "Niels Arestrup",
-      "Claire Wauthion"
-    ]
+    "generique": ["Chantal Akerman", "Niels Arestrup", "Claire Wauthion"]
   },
   {
     "titre": "Jean Genet, un captif amoureux, parcours d'un poète combattant",
@@ -718,7 +675,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith. (Yann Gonzalez)"
+        "texte": "« Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith. » (Yann Gonzalez)"
       }
     ]
   },
@@ -735,7 +692,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social ». (Taylor Hess)"
+        "texte": "« Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social. » (Taylor Hess)"
       }
     ]
   },
@@ -752,7 +709,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images. (SG)"
+        "texte": "Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images."
       }
     ]
   },
@@ -769,7 +726,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. (NB)"
+        "texte": "« Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. » (Nicole Brenez)"
       }
     ]
   },
@@ -786,12 +743,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Du mâle hétérosexuel comme fétiche. (NB)"
+        "texte": "« Du mâle hétérosexuel comme fétiche. » (Nicole Brenez)"
       }
     ]
   },
   {
-    "titre": "Loi X – La nuit en permanence",
+    "titre": "Loi X – la nuit en permanence",
     "art": "La",
     "titreVo": "",
     "idFilm": 141232,
@@ -824,11 +781,7 @@
         "texte": "Fresque onirique de la Harlem Renaissance, fête explosive ponctuée par la voix du poète Langston Hughes, où des hommes noirs s'enivrent de plaisirs."
       }
     ],
-    "generique": [
-      "Ben Ellison",
-      "Matthew Baidoo",
-      "Akim Mogaji"
-    ]
+    "generique": ["Ben Ellison", "Matthew Baidoo", "Akim Mogaji"]
   },
   {
     "titre": "Lupe",
@@ -846,9 +799,7 @@
         "texte": "« L'originalité de José Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino. » (David Bernadas)"
       }
     ],
-    "generique": [
-      "Mario Montez"
-    ]
+    "generique": ["Mario Montez"]
   },
   {
     "titre": "Mahogany Too",
@@ -866,9 +817,7 @@
         "texte": "Image d'une afro-américaine déterminée à vivre ses rêves."
       }
     ],
-    "generique": [
-      "Esosa E."
-    ]
+    "generique": ["Esosa E."]
   },
   {
     "titre": "Makita Witch",
@@ -883,12 +832,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Makita en sorcière qui vole sur son balai. (Angela Marzullo)"
+        "texte": "« Makita en sorcière qui vole sur son balai. » (Angela Marzullo)"
       }
     ]
   },
   {
-    "titre": "Manifestation contre la répression de l'homosexualité : Juin 1977",
+    "titre": "Manifestation contre la répression de l'homosexualité : juin 1977",
     "titreVo": "",
     "idFilm": 141216,
     "idCycle": 429,
@@ -900,7 +849,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. (SG)"
+        "texte": "« Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. » (Stéphane Gérard)"
       }
     ]
   },
@@ -917,7 +866,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Nature, zone érogène. (NB)"
+        "texte": "« Nature, zone érogène. » (Nicole Brenez)"
       }
     ]
   },
@@ -934,7 +883,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Cinq jours de liberté dont les travestis sont rois et reines, dans une société birmane sous dictature. (NB)"
+        "texte": "Cinq jours de liberté dont les travestis sont rois et reines, dans une société birmane sous dictature."
       }
     ]
   },
@@ -951,7 +900,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un cActus à l'occasion de la marche des partisans du OUI au « Mariage pour tous », le 16 décembre 2012 à Paris. \\[SG\\]"
+        "texte": "« Un cactus à l'occasion de la marche des partisans du oui \"Mariage pour tous\", le 16 décembre 2012 à Paris. » (Stéphane Gérard)"
       }
     ]
   },
@@ -985,14 +934,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Galerie de portraits affectifs irradiant de désir. (NB)"
+        "texte": "« Galerie de portraits affectifs irradiant de désir. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Christopher",
-      "Mark Hellinger",
-      "Virginia Giritlian"
-    ]
+    "generique": ["Christopher", "Mark Hellinger", "Virginia Giritlian"]
   },
   {
     "titre": "O Happy Day",
@@ -1007,7 +952,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citation de Huey Newton. (SG)"
+        "texte": "L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citations de Huey Newton."
       }
     ]
   },
@@ -1025,12 +970,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une série de portrait qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes. (SG)"
+        "texte": "Une série de portraits qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes."
       }
     ]
   },
   {
-    "titre": "Paixao Nacional",
+    "titre": "Paixão nacional",
     "titreVo": "",
     "idFilm": 141244,
     "idCycle": 429,
@@ -1042,7 +987,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'hypocrisie sexuelle à échelle nationale."
+        "texte": "« L'hypocrisie sexuelle à échelle nationale. »"
       }
     ]
   },
@@ -1059,14 +1004,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "De jeunes femmes trans font des rues de Paris leur cabaret. Leurs rêves sont rapidement rattrapés par la réalité. (SG)"
+        "texte": "De jeunes femmes trans font des rues de Paris leur cabaret. Leurs rêves sont rapidement rattrapés par la réalité."
       }
     ],
-    "generique": [
-      "Hélène Hazéra",
-      "Marie France",
-      "René Scherer"
-    ]
+    "generique": ["Hélène Hazéra", "Marie France", "René Scherer"]
   },
   {
     "titre": "Pink Narcissus",
@@ -1081,14 +1022,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Apogée d'une imagerie homosexuelle portée à l'incandescence. (NB)"
+        "texte": "« Apogée d'une imagerie homosexuelle portée à l'incandescence. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Bobby Kendall",
-      "Don Brooks",
-      "Charles Ludman"
-    ]
+    "generique": ["Bobby Kendall", "Don Brooks", "Charles Ludman"]
   },
   {
     "titre": "Projet Sextoy",
@@ -1124,15 +1061,11 @@
         "texte": "« Pour ce qui en est de la hiérarchie des luttes révolutionnaires selon l'urgence, les homosexuels pensent que ce combat est inséparable de la lutte contre l'exploitation socio-économique. L'un sans l'autre reste lettre morte. » (Guy Hocquenghem)"
       }
     ],
-    "generique": [
-      "Elizar Van Effenterre",
-      "Pierre Stone",
-      "Gilles Sandier"
-    ]
+    "generique": ["Elizar Van Effenterre", "Pierre Stone", "Gilles Sandier"]
   },
   {
     "titre": "Red Chewing Gum",
-    "titreVo": "Al-ilka al-hamra",
+    "titreVo": "العلكة الحمراء [Al-ilka al-hamra]",
     "idFilm": 141245,
     "idCycle": 429,
     "idCategorie": 1973,
@@ -1143,7 +1076,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une lettre-vidéo qui devient une tentative de saisir, et donc de s'approprier, le temps qui s'enfuit. (Heure exquise)"
+        "texte": "Une lettre-vidéo qui devient une tentative de saisir, et donc de s'approprier, le temps qui s'enfuit."
       }
     ]
   },
@@ -1162,14 +1095,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'œuvre dans la scène étatsunienne de drag queens. \\[SG\\]"
+        "texte": "« Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'œuvre dans la scène étatsunienne des drag queens. » (Stéphane Gérard)"
       }
     ],
-    "generique": [
-      "Jack Doroshow",
-      "Richard Finocchio",
-      "Crystal"
-    ]
+    "generique": ["Jack Doroshow", "Richard Finocchio", "Crystal"]
   },
   {
     "titre": "Reluctantly Queer",
@@ -1187,9 +1116,7 @@
         "texte": "Intimité queer au Ghana."
       }
     ],
-    "generique": [
-      "Kwame Edwin Otu"
-    ]
+    "generique": ["Kwame Edwin Otu"]
   },
   {
     "titre": "Rien n'oblige à répéter l'histoire",
@@ -1221,12 +1148,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Élégie de polaroïds tournée en caméra vide et haut, où l'on cherche le point sur des photos floues pour refuser l'absence de l'être aimé. (SG)"
+        "texte": "« Élégie de polaroïds tournée en caméra vide et haut, où l'on cherche le point sur des photos floues pour refuser l'absence de l'être aimé. » (Stéphane Gérard)"
       }
     ]
   },
   {
-    "titre": "Salome",
+    "titre": "Salomé",
     "titreVo": "",
     "idFilm": 30994,
     "idCycle": 429,
@@ -1238,18 +1165,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Salomé, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde. » (NB)"
+        "texte": "« _Salomé_, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Alla Nazimova",
-      "Mitchell Lewis",
-      "Nigel De Brulier"
-    ],
+    "generique": ["Alla Nazimova", "Mitchell Lewis", "Nigel De Brulier"],
     "adaptation": "D'après la pièce _Salomé_ d'Oscar Wilde."
   },
   {
-    "titre": "Salon de T – Farrah Diod (Partie 1 et 2)",
+    "titre": "Salon de T - Farrah Diod (Parties 1 et 2)",
     "titreVo": "",
     "idFilm": 141507,
     "idCycle": 429,
@@ -1261,7 +1184,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal +, « L'Œil du cyclone ». (Chéries Chéris)"
+        "texte": "Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal + _L'Œil du cyclone_."
       }
     ]
   },
@@ -1279,17 +1202,17 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Un artiste passe de l'autre côté du miroir à l'invitation d'une statue."
+      },
+      {
+        "typeTexte": 99,
         "texte": "« Dites à Cocteau que je l'aime, parce que, comme s'il revenait des rivages d'une mer, il est le seul à être revenu bronzé du monde des mythes. » (Rainer Maria Rilke)"
       }
     ],
-    "generique": [
-      "Enrique de Rivero",
-      "Lee Miller",
-      "Pauline Carton"
-    ]
+    "generique": ["Enrique de Rivero", "Lee Miller", "Pauline Carton"]
   },
   {
-    "titre": "Selva. Un portrait de Parvaneh Navaï",
+    "titre": "Selva , un portrait de Parvaneh Navaï",
     "titreVo": "",
     "idFilm": 141237,
     "idCycle": 429,
@@ -1301,12 +1224,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Selva approfondit deux archétypes : la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles. (NB)"
+        "texte": "« _Selva_ approfondit deux archétypes : la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles. » (Nicole Brenez)"
       }
     ],
-    "generique": [
-      "Parvaneh Navaï"
-    ]
+    "generique": ["Parvaneh Navaï"]
   },
   {
     "titre": "Shakedown",
@@ -1327,7 +1248,7 @@
     ]
   },
   {
-    "titre": "Sisters !",
+    "titre": "Sisters!",
     "titreVo": "",
     "idFilm": 141225,
     "idCycle": 429,
@@ -1356,7 +1277,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires. (SG)"
+        "texte": "« En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires. » (Stéphane Gérard)"
       }
     ]
   },
@@ -1373,13 +1294,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Un joyau des la haute époque des luttes de libération. » (Juan Antonio Suarez)"
+        "texte": "« Un joyau des la haute époque des luttes de libération. » (Juan Antonio Suárez)"
       }
     ],
-    "generique": [
-      "Max Almy",
-      "Barbara Hammer"
-    ]
+    "generique": ["Max Almy", "Barbara Hammer"]
   },
   {
     "titre": "Synch Touch",
@@ -1394,7 +1312,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Expérience de cinéma haptique. (NB)"
+        "texte": "« Expérience de cinéma haptique. » (Nicole Brenez)"
       }
     ]
   },
@@ -1411,7 +1329,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Kyoto en 1865, Sozaburo Kano est un jeune homme aux traits délicats et androgynes qui veut intégrer une école de samouraïs organisée en milice, le Shinsengumi."
+        "texte": "À Kyoto, en 1865, Sozaburo Kano est un jeune homme aux traits délicats et androgynes qui veut intégrer une école de samouraïs organisée en milice, le Shinsengumi."
       }
     ],
     "generique": [
@@ -1434,7 +1352,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. (NB)"
+        "texte": "« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez)"
       }
     ]
   },
@@ -1451,14 +1369,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un sex-club, les corps de Théo et de Hugo se mêlent en une étreinte passionnée. Passé l'emportement du désir, les deux jeunes hommes dégrisés, dans les rues du Paris nocturne, se confrontent à leur amour naissant."
+        "texte": "Dans un sex-club, les corps de Théo et Hugo se mêlent en une étreinte passionnée. Passé l'emportement du désir, les deux jeunes hommes dégrisés, dans les rues du Paris nocturne, se confrontent à leur amour naissant."
       }
     ],
-    "generique": [
-      "Geoffrey Couët",
-      "François Nambot",
-      "Mario Fanfani"
-    ]
+    "generique": ["Geoffrey Couët", "François Nambot", "Mario Fanfani"]
   },
   {
     "titre": "There Is a Spider Living Between Us",
@@ -1490,7 +1404,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Reconquête du terrain au temps du SIDA. » (Isaac Julien)"
+        "texte": "« Reconquête du terrain au temps du sida. » (Isaac Julien)"
       }
     ]
   },
@@ -1507,14 +1421,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida. (SG)"
+        "texte": "« Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida. » (Stéphane Gérard)"
       }
     ],
-    "generique": [
-      "Marlon Riggs",
-      "Michael Bell",
-      "Kerrigan Black"
-    ]
+    "generique": ["Marlon Riggs", "Michael Bell", "Kerrigan Black"]
   },
   {
     "titre": "Troisième œil",
@@ -1530,7 +1440,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'univers bouleversé par une branlette. »"
+        "texte": "« Manifeste du cinéma haptique, qui pourrait aussi être résumé : \"Tout l'univers bouleversé par une branlette.\" »"
       }
     ]
   },
@@ -1547,14 +1457,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort. » (Marguerite Vappereau)"
+        "texte": "Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort."
       }
     ],
-    "generique": [
-      "Lucien Sénemaud",
-      "Coco le Martiniquais",
-      "Java"
-    ]
+    "generique": ["Lucien Sénemaud", "Coco le Martiniquais", "Java"]
   },
   {
     "titre": "Vos papiers",
@@ -1569,7 +1475,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité. (SG)"
+        "texte": "Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité."
       }
     ]
   },
@@ -1586,7 +1492,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une brassée d'amies. (NB)"
+        "texte": "« Une brassée d'amies. » (Nicole Brenez)"
       }
     ]
   }
