@@ -3,7 +3,7 @@
 **Adieu, plancher des vaches !**  
 d'Otar Iosseliani  
 France-Suisse-Italie / 1998  
-Avec Nico Tarielashvili, Lily Lavina, Otar Iosseliani, Philippe Bas.  
+Avec Nico Tarielachvili, Lily Lavina, Otar Iosseliani, Philippe Bas.  
 Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous.
 
 **Aquarelle**  
@@ -17,14 +17,14 @@ Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie da
 **(Aprili)**  
 d'Otar Iosseliani  
 URSS / 1961  
-Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.
+Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.  
 De jeunes mariés s'installent dans un appartement neuf, équipé du strict nécessaire, et y vivent heureux. Les habitants de l'immeuble achètent frénétiquement du mobilier, et lorsque le couple se met également à consommer, les querelles éclatent.
 
 **Brigands, chapitre VII**  
 d'Otar Iosseliani  
 France-Suisse-URSS-Italie / 1995  
 Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.  
-Queles portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
+Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
 
 **Le Chant de la fleur introuvable**  
 **(Sapovnela)**  
@@ -35,13 +35,13 @@ Un vieil homme, amoureux de la nature, réalise de magnifiques compositions flor
 **Chant d'hiver**  
 d'Otar Iosseliani  
 France / 2014  
-Avec Rufus, Amiran Amiranashvili, Mathias Jung, Mathieu Amalric.
+Avec Rufus, Amiran Amiranachvili, Mathias Jung, Mathieu Amalric.  
 Trois histoires se succèdent, avec un même personnage : une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui.
 
 **Chantrapas**  
 d'Otar Iosseliani  
 France-Géorgie-Ukraine / 2009  
-Avec Dato Tarielashvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier, Pierre Étaix.
+Avec Dato Tarielachvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier, Pierre Étaix.  
 Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique.
 
 **La Chasse aux papillons**  
@@ -66,12 +66,12 @@ En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit he
 **Euskadi**  
 d'Otar Iosseliani  
 France / 1983  
-Film tourné au Pays basque à l'été 1982 pendant la préparation de la Pastorale jouée et chantée par les habitants de Pagolle.
+Film tourné au Pays basque à l'été 1982, pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle.
 
 **Les Favoris de la lune**  
 d'Otar Iosseliani  
 France / 1984  
-Avec Pascal Aubier, Alix de Montaigu, Mathieu Amalric, Jean-Pierre Beauviala.
+Avec Pascal Aubier, Alix de Montaigu, Mathieu Amalric, Jean-Pierre Beauviala.  
 Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils...
 
 **La Fonte**  
@@ -121,7 +121,7 @@ d'Otar Iosseliani
 France / 1988  
 Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane.
 
-**Vieilles chansons Georgiennes**  
+**Vieilles chansons géorgiennes**  
 **(Starinnaja gruzinskaja pesnja)**  
 d'Otar Iosseliani  
 URSS / 1968  
