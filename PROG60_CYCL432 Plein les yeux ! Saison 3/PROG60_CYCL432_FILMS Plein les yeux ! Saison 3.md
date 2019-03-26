@@ -21,7 +21,7 @@ de Jack Smight
 États-Unis / 1974  
 D'après le roman _Airport_ d'Arthur Hailey.  
 Avec Charlton Heston, Karen Black, George Kennedy, Dana Andrews.  
-Lors d'un vol Washinghton-Los Angeles, un Boeing 747 est violemment percuté par un avion de tourisme. Le commandant de bord étant gravement blessé par le choc, la chef de cabine, son mari et un aiguilleur du ciel vont tenter de reprendre le contrôle de l'appareil.
+Lors d'un vol Washington-Los Angeles, un Boeing 747 est violemment percuté par un avion de tourisme. Le commandant de bord étant gravement blessé par le choc, la chef de cabine, son mari et un aiguilleur du ciel vont tenter de reprendre le contrôle de l'appareil.
 
 **Alamo**  
 **(The Alamo)**  
@@ -111,7 +111,7 @@ Avec Jet Li, Rosamund Kwan, Biao Yuen.
 de Mamoru Oshii  
 Japon / 2003  
 D'après le manga _Ghost in the Shell_ de Masamune Shirow.  
-Japon 2032. Hanté par le souvenir du Major Motoko, l'inspecteur cyborg Batou enquête avec son partenaire humain Togusa sur une série de meurtres perpétrés par des gynoïdes, des androïdes à l'apparence féminine, destinés aux plaisirs sexuels.
+Japon, 2032. Hanté par le souvenir du Major Motoko, l'inspecteur cyborg Batou enquête avec son partenaire humain Togusa sur une série de meurtres perpétrés par des gynoïdes, des androïdes à l'apparence féminine, destinés aux plaisirs sexuels.
 
 **Interstellar**  
 de Christopher Nolan  
@@ -137,18 +137,16 @@ Grâce à du sang de dinosaures retrouvé dans des moustiques fossilisés, un mi
 de Joseph Kosinski  
 États-Unis / 2012  
 D'après le roman graphique _Oblivion_ de Joseph Kosinski.  
-Avec Tom Cruise, Morgan Freeman, Olga Kurylenko.
-
-2077. Un homme est chargé d'exploiter les dernières ressources sur la Terre, désertée après une guerre contre des extraterrestres. Témoin du crash d'un vaisseau, il sauve la femme qui le pilotait. Cette rencontre va remettre en question sa mission.
+Avec Tom Cruise, Morgan Freeman, Olga Kurylenko.  
+2077\. Un homme est chargé d'exploiter les dernières ressources sur la Terre, désertée après une guerre contre des extraterrestres. Témoin du crash d'un vaisseau, il sauve la femme qui le pilotait. Cette rencontre va remettre en question sa mission.
 
 **Orca**  
-**(Orca... Killer Whale)**  
 de Michael Anderson  
 États-Unis / 1976  
 Avec Richard Harris, Charlotte Rampling, Will Sampson.  
 Le capitaine Nolan se donne pour mission de capturer une orque, malgré les avertissements d'une biologiste. Lorsqu'il blesse mortellement une femelle qui perd son petit, le mâle le prend en chasse.
 
-**Outland... Loin de la terre**  
+**Outland : Loin de la terre**  
 **(Outland)**  
 de Peter Hyams  
 États-Unis / 1980  
@@ -171,7 +169,7 @@ Monsieur Hulot, à la recherche d'un emploi, a rendez-vous dans un quartier futu
 de Jan De Bont  
 États-Unis / 1993  
 Avec Keanu Reeves, Sandra Bullock, Dennis Hopper.  
-Un policier à la retraite a posé une bombe dans un bus dans lequel se trouve également un jeune officier. Le bus ne peut pas descendre en dessous de 50 miles/heure sous peine d'exploser.
+Un policier à la retraite a posé une bombe dans un bus dans lequel se trouve également un jeune officier. Le bus ne peut pas descendre en dessous de 50 miles à l'heure sous peine d'exploser.
 
 **Stalingrad**  
 **(Enemy at the Gates)**  
