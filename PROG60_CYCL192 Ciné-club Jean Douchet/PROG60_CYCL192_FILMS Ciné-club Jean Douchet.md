@@ -13,7 +13,7 @@ de Kenneth Lonergan
 Avec Casey Affleck, Michelle Williams, Lucas Hedges, Kyle Chandler.  
 Lee Chandler, homme à tout faire dans un immeuble de Boston, vit en solitaire. Un jour d'hiver, il reçoit un appel : le soudain décès de son frère le désigne comme tuteur de son neveu âgé de seize ans. Lee va devoir retourner dans sa ville natale, Manchester-by-the-Sea.
 
-**Terre des pharaons**  
+**La Terre des pharaons**  
 **(Land of the Pharaohs)**  
 de Howard Hawks  
 États-Unis / 1954  
