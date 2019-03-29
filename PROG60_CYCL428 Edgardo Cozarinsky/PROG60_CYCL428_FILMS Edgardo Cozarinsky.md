@@ -64,7 +64,8 @@ d'Edgardo Cozarinsky
 Argentine / 2010  
 Un cinéaste a vécu en cueillant des images, des mots, des musiques. Un jour, il reconnaît dans cette collection de fragments, où l'Histoire dialogue avec les destinées individuelles et leur douleur muette, son propre portrait.
 
-**Puntos suspensivos o Esperando a los bárbaros**  
+**... (Points du suspension)**  
+**(Puntos suspensivos o Esperando a los bárbaros)**  
 d'Edgardo Cozarinsky  
 Argentine / 1971  
 Avec Roberto Villanueva, Jorge Álvarez.  
