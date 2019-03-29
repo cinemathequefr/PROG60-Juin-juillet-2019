@@ -24,12 +24,12 @@ de Nick Park, Peter Lord
 Avec Gérard Depardieu, Valérie Lemercier, Josiane Balasko.
 
 **Le Cochon de Wat**  
-**(Wat's pig)**  
+**(Wat's Pig)**  
 d'Anonyme  
 Grande-Bretagne / 1996
 
 **Le Confort électrique**  
-**(Heat electric)**  
+**(Heat Electric)**  
 d'Anonyme  
 Grande-Bretagne / 1991
 
@@ -51,19 +51,19 @@ de Peter Peake
 Grande-Bretagne / 1998
 
 **Jamais sans mon sac à main**  
-**(Not without my handbag)**  
+**(Not Without My Handbag)**  
 d'Anonyme  
 Grande-Bretagne / 1992
 
-**Loves me, loves me not**  
+**Loves Me, Loves Me Not**  
 de Jeff Newitt  
 Grande-Bretagne / 1992
 
-**Morph : Selfie**  
+**Morph: Selfie**  
 de David Sproxton, Peter Lord  
 Grande-Bretagne / 2013
 
-**Morph : Sloped World**  
+**Morph: Sloped World**  
 de Merlin Crossingham  
 Grande-Bretagne / 2014
 
@@ -82,10 +82,10 @@ d'Anonyme
 Grande-Bretagne / 1994
 
 **Les Pirates ! Bons à rien, mauvais en tout**  
-**(The Pirates ! Band of Misfits)**  
+**(The Pirates! Band of Misfits)**  
 de Peter Lord, Jeff Newitt  
 Grande-Bretagne-États-Unis / 2011  
-D'après le livre _Les Pirates ! Dans une aventure avec les savants_ de Gideon Defoe.
+D'après le livre _Les Pirates ! dans : Une aventure avec les savants_ de Gideon Defoe.
 
 **Pop**  
 de Sam Fell  
@@ -95,15 +95,15 @@ Grande-Bretagne / 1996
 de Richard Webber  
 Grande-Bretagne / 2006
 
-**Ray'sbig Idea**  
+**Ray's Big Idea**  
 de Steve Harding-Hill  
 Grande-Bretagne / 2014
 
-**Rex the runt : dreams (1991)**  
+**Rex the Runt: Dreams**  
 de Richard Goleszowski  
 Grande-Bretagne / 1991
 
-**Rex the runt : how dinosaurs became extinct**  
+**Rex the Runt: How Dinosaurs Became Extinct**  
 de Richard Goleszowski  
 Grande-Bretagne / 1994
 
@@ -116,25 +116,25 @@ Grande-Bretagne-France / 2014
 de Jay Grace  
 Grande-Bretagne / 2013
 
-**Sledgehammer = Peter Gabriel : Sledgehammer**  
+**Sledgehammer**  
 de Stephen R. Johnson  
 Grande-Bretagne / 1986
 
-**So You Want to Be a Pirate !**  
+**So You Want to Be a Pirate!**  
 de Jay Grace  
 Grande-Bretagne / 2012
 
-**Souris city**  
+**Souris City**  
 **(Flushed Away)**  
 de David Bowers, Sam Fell  
 Grande-Bretagne-États-Unis / 2005
 
-**Stage fright**  
+**Stage Fright**  
 de Steve Box  
 Grande-Bretagne / 1997
 
-**Wallace et Gromit : Le mystère du lapin-garou**  
-**(Wallace and Gromit : The Curse of the Were-Rabbit)**  
+**Wallace et Gromit : Le Mystère du lapin-garou**  
+**(Wallace and Gromit: The Curse of the Were-Rabbit)**  
 de Nick Park, Steve Box  
 Grande-Bretagne / 2004
 
@@ -144,16 +144,16 @@ de Nick Park
 Grande-Bretagne / 1995
 
 **Wallace et Gromit : Un mauvais pantalon**  
-**(Wallace and Gromit : The Wrong Trousers)**  
+**(Wallace and Gromit: The Wrong Trousers)**  
 de Nick Park  
 Grande-Bretagne / 1993
 
 **Wallace et Gromit : Un sacré pétrin**  
-**(Wallace and Gromit : A Matter of Loaf and Death)**  
+**(Wallace and Gromit: A Matter of Loaf and Death)**  
 de Nick Park  
 Grande-Bretagne / 2008
 
 **Wallace et Gromit : Une grande excursion**  
-**(Wallace and Gromit : A Grand Day Out)**  
+**(Wallace and Gromit: A Grand Day Out)**  
 de Nick Park  
 Grande-Bretagne / 1989
