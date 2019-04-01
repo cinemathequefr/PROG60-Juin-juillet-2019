@@ -11,7 +11,7 @@ d'Edgardo Cozarinsky
 France / 1995  
 Avec Henri Langlois, Éric Rohmer, Freddy Buache, Marie Epstein.  
 Documentaire en forme de promenade où témoignages et images d'archives s'assemblent pour former un portrait d'Henri Langlois, sur un commentaire dit par Niels Arestrup.  
-« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XXe siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)
+« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX<sup>e</sup> siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)
 
 **Dans le rouge du couchant**  
 d'Edgardo Cozarinsky  

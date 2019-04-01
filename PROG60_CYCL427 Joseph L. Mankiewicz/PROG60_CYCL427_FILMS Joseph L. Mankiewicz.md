@@ -43,7 +43,7 @@ de Joseph L. Mankiewicz
 États-Unis / 1945  
 D'après le roman _Dragonwyck_ d'Anya Seton.  
 Avec Gene Tierney, Walter Huston, Vincent Price, Glenn Langan.  
-À la fin du 19e siècle, une jeune fermière du Connecticut est invitée au château de Dragonwyck par un lointain cousin, l'aristocrate Nicholas Van Ryn, pour tenir compagnie à sa fille.
+À la fin du XIX<sup>e</sup> siècle, une jeune fermière du Connecticut est invitée au château de Dragonwyck par un lointain cousin, l'aristocrate Nicholas Van Ryn, pour tenir compagnie à sa fille.
 
 **Cleopâtre**  
 **(Cleopatra)**  
