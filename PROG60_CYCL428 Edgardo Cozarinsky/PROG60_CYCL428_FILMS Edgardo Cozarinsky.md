@@ -51,7 +51,7 @@ Portrait de Jean Cocteau à travers un montage d'extraits de films et d'archives
 **(Carta a un padre)**  
 d'Edgardo Cozarinsky  
 Argentine-France / 2013  
-Edgardo Cozarinsky voyage sur les traces de sa famille paternelle, retraçant l'existence d'une colonie juive fondée à la fin du XIXe siècle dans l'Entre Ríos argentin.
+Edgardo Cozarinsky voyage sur les traces de sa famille paternelle, retraçant l'existence d'une colonie juive fondée à la fin du XIX<sup>e</sup> siècle dans l'Entre Ríos argentin.
 
 **Limelight (Les Feux de la rampe)**  
 d'Edgardo Cozarinsky  

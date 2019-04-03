@@ -188,8 +188,9 @@ France / 1980
 Avec Jean-François B., François Dantchev, Karine.  
 « _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)
 
+<!-- TODO : En faire : Film surprise -->
+
 **Je ne sais pas qui je suis, mais je sais ce que je pense**  
-**(Tra kegro lafi sasam mle ra kgro lafe beln)**  
 de Mathieu Morel  
 France / 2019  
 « Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçues, quand se fige mon esprit. » (Mathieu Morel)

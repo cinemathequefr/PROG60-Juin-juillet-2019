@@ -64,7 +64,7 @@
 <pstyle:TITRE_ANG>(Carta a un padre)
 <pstyle:TECHNIQUE>d'Edgardo Cozarinsky
 <pstyle:TECHNIQUE>Argentine-France/2013/63'/VOSTF/Numérique
-<pstyle:SYNOPSIS>Edgardo Cozarinsky voyage sur les traces de sa famille paternelle, retraçant l'existence d'une colonie juive fondée à la fin du XIXe siècle dans l'Entre Ríos argentin.
+<pstyle:SYNOPSIS>Edgardo Cozarinsky voyage sur les traces de sa famille paternelle, retraçant l'existence d'une colonie juive fondée à la fin du XIX<cp:Superscript>e<cp:> siècle dans l'Entre Ríos argentin.
 <pstyle:><cstyle:INFOSBLEUES>me 03 juilXXX20h30XXX
 <cstyle:SALLESBLEUES>B
 
