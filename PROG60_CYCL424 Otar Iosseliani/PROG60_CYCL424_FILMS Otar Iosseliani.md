@@ -93,6 +93,12 @@ France / 2005
 Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
 Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir.
 
+<!-- AJOUT, A TRAITER -->
+**Lundi matin**
+d'Otar Iosseliani
+France-Italie / 2001
+<!-- FIN AJOUT -->
+
 **Otar Iosseliani, le merle siffleur**  
 de Julie Bertuccelli  
 France / 2006  

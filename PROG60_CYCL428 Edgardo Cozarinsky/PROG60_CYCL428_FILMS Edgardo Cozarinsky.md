@@ -6,6 +6,12 @@ France-RFA / 1976
 Avec Zouzou, Peter Chatel, Marie-France Pisier, Christian Marquand.  
 Un espion arrive à Paris en possession d'une mallette contenant des documents secrets. L'objet va passer de main en main, entraînant une suite d'événements étranges.
 
+**Le Cinéma des Cahiers**  
+d'Edgardo Cozarinsky  
+France / 2001
+Cinquante ans après leur création, la récit de l'histoire tumultueuse des _Cahiers du cinéma_.  
+« À travers les générations successives qui apportent à la revue des approches et des passions du cinéma qui leur sont propres, c'est une histoire d'amour (heureux, déçu, renouvelé) que nous voulons raconter. » (Edgardo Cozarinsky)
+
 **Citizen Langlois**  
 d'Edgardo Cozarinsky  
 France / 1995  
@@ -23,7 +29,7 @@ Les destins croisés de Clara, David et Michel, qui vivent à Paris et ont en co
 d'Edgardo Cozarinsky  
 France-Maroc-Allemagne / 1997  
 Avec Laurent Grévill, Larbi Yacoubi, Brenda Gerolemou, Dick Chapman.  
-À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du sud du pays dans l'espoir de gagner l'Europe clandestinement.
+À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du Sud du pays dans l'espoir de gagner l'Europe clandestinement.
 
 **La Guerre d'un seul homme**  
 d'Edgardo Cozarinsky  
@@ -69,7 +75,7 @@ Un cinéaste a vécu en cueillant des images, des mots, des musiques. Un jour, i
 d'Edgardo Cozarinsky  
 Argentine / 1971  
 Avec Roberto Villanueva, Jorge Álvarez.  
-Au gré de rencontres diverses se dessine le portrait d’un jeune homme qui peine à comprendre son époque et à l'habiter.
+Au gré de rencontres diverses se dessine le portrait d'un jeune homme qui peine à comprendre son époque et à l'habiter.
 
 **Ronde de nuit**  
 **(Ronda nocturna)**  
