@@ -93,11 +93,11 @@ France / 2005
 Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
 Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir.
 
-<!-- AJOUT, A TRAITER -->
-**Lundi matin**
-d'Otar Iosseliani
-France-Italie / 2001
-<!-- FIN AJOUT -->
+**Lundi matin**  
+d'Otar Iosseliani  
+France-Italie / 2001  
+Avec Jacques Bidou, Anne Kravz-Tarnavsky, Narda Blanchet, Radslav Kinski.  
+Vincent, ouvrier soudeur dans la vallée du Rhône, ne supporte plus la routine de l'usine et les contrariétés de la vie de famille. Un matin, sur un coup de tête, il quitte son village sans prévenir personne et se met en route pour l'Italie.
 
 **Otar Iosseliani, le merle siffleur**  
 de Julie Bertuccelli  

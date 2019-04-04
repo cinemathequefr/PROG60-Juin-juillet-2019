@@ -419,7 +419,7 @@ Avec Takeshi Kitano, Ryuhei Matsuda, Shinji Takeda, Tadanobu Asano.
 **Tearoom**  
 de William E. Jones  
 États-Unis / 2008  
-« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez)
+« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez) 
 
 **Théo et Hugo dans le même bateau**  
 d'Olivier Ducastel, Jacques Martineau  

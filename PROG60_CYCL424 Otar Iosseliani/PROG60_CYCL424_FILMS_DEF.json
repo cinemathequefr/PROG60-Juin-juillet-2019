@@ -296,6 +296,27 @@
     ]
   },
   {
+    "titre": "Lundi matin",
+    "titreVo": "",
+    "idFilm": 77201,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2001,
+    "pays": "France-Italie",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Vincent, ouvrier soudeur dans la vallée du Rhône, ne supporte plus la routine de l'usine et les contrariétés de la vie de famille. Un matin, sur un coup de tête, il quitte son village sans prévenir personne et se met en route pour l'Italie."
+    }],
+    "generique": [
+      "Jacques Bidou",
+      "Anne Kravz-Tarnavsky",
+      "Narda Blanchet",
+      "Radslav Kinski"
+    ]
+  },
+  {
     "titre": "Otar Iosseliani, le merle siffleur",
     "titreVo": "",
     "idFilm": 102442,
