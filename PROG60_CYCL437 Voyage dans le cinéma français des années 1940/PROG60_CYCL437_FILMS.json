@@ -1,5 +1,4 @@
-[
-  {
+[{
     "titre": "Adieu Léonard",
     "titreVo": "",
     "idFilm": 50768,
@@ -9,16 +8,15 @@
     "realisateurs": "Pierre Prévert",
     "annee": 1943,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Léonard vend des lampions et autres farces et attrapes. Les extravagances de sa femme et de l'amant de celle-ci, Tancrède, l'ont conduit à la ruine. Il est poussé par Tancrède à faire un coup."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Léonard, vendeur de farces et attrapes, est ruiné par les frasques de sa femme et de son amant. Celui-ci le pousse à monter un cambriolage chez un marchand de biens, mais Léonard est surpris par le propriétaire."
+    }],
     "generique": [
-      "Charles Trenet",
       "Pierre Brasseur",
-      "Julien Carette"
+      "Julien Carette",
+      "Denise Grey",
+      "Charles Trenet"
     ]
   },
   {
@@ -32,12 +30,10 @@
     "realisateurs": "Christian-Jaque",
     "annee": 1941,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un village savoyard s'apprête à fêter Noël. Le père Cornusse, fabricant de mappemondes, se prépare à revêtir, comme chaque année, le costume rouge du bon vieillard à barbe blanche."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Dans un village savoyard, le père Cornusse s'apprête à jouer comme chaque année le rôle du père Noël. Tandis que sa fille rêve au prince charmant, le baron du château voisin revient au pays. C'est alors qu'un homme en costume de père Noël est retrouvé mort."
+    }],
     "generique": [
       "Harry Baur",
       "Raymond Rouleau",
@@ -56,16 +52,15 @@
     "realisateurs": "Léo Joannon",
     "annee": 1942,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un jeune garagiste reçoit l'ordre du chef des gitans du Nord de parcourir la route suivie tout au long de sa vie par le roi des gitans, dont la dépouille est à bord de son camion blanc."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un jeune garagiste se voit confier une étrange mission : convoyer dans son camion blanc la dépouille d'un chef gitan."
+    }],
     "generique": [
       "François Périer",
       "Jules Berry",
-      "Blanchette Brunoy"
+      "Blanchette Brunoy",
+      "Marguerite Moreno"
     ]
   },
   {
@@ -79,12 +74,10 @@
     "realisateurs": "Abel Gance",
     "annee": 1942,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un baron ruiné décide par amour pour une actrice de suivre une troupe ambulante. Il devient le capitaine Fracasse."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Au XVII<sup>e</sup> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de capitaine Fracasse."
+    }],
     "generique": [
       "Fernand Gravey",
       "Assia Noris",
@@ -101,18 +94,16 @@
     "realisateurs": "Christian-Jaque",
     "annee": 1942,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Séville, 1820. Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen."
+    }],
     "generique": [
       "Viviane Romance",
       "Jean Marais",
       "Lucien Coëdel"
     ],
-    "adaptation": "D'après l'opéra _Carmen_ de Henri Meilhac et Ludovic Halévy.  \nD'après la nouvelle _Carmen_ de Prosper Mérimée."
+    "adaptation": "D'après la nouvelle « Carmen » de Prosper Mérimée."
   },
   {
     "titre": "Carrefour des enfants perdus",
@@ -125,15 +116,14 @@
     "realisateurs": "Léo Joannon",
     "annee": 1943,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain."
+    }],
     "generique": [
       "René Dary",
       "A.-M. Julien",
+      "Raymond Bussières",
       "Jean Mercanton"
     ]
   },
@@ -148,18 +138,16 @@
     "realisateurs": "Marcel L'Herbier",
     "annee": 1940,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le banquier Jourdain que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Le banquier Jourdain, que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille."
+    }],
     "generique": [
       "Michel Simon",
       "Jacqueline Delubac",
       "Ramon Novarro"
     ],
-    "adaptation": "D'après la pièce _La Comédie du bonheur_ de Nicolas Evreinoff."
+    "adaptation": "D'après la pièce _Samoïé glavnoïé_  de Nicolas Evreinoff."
   },
   {
     "titre": "Dernier atout",
@@ -171,12 +159,10 @@
     "realisateurs": "Jacques Becker",
     "annee": 1942,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "A Carical, capitale d'un pays imaginaire, Clarence et Montès, deux aspirants policiers, sortent ex-aequo de l'école de police. Clarence demande une épreuve pratique pour les départager."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Dans une ville imaginaire d'Amérique du Sud, Clarence et Montès, deux aspirants policiers, sortent _ex-aequo_ de l'école de police. Pour les départager, on les charge d'élucider une affaire de meurtre."
+    }],
     "generique": [
       "Raymond Rouleau",
       "Mireille Balin",
@@ -193,20 +179,19 @@
     "realisateurs": "Sacha Guitry",
     "annee": 1943,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un sculpteur épouse son modèle mais devient alors dur et cassant. Perdant la vue, il veut en fait éloigner sa femme qu'il aime."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un célèbre sculpteur, qui vient d'épouser sa jeune modèle, se montre étrangement distant avec elle. Mais elle comprend rapidement qu'il cherche à l'éloigner pour lui dissimuler qu'il est en train de perdre la vue."
+    }],
     "generique": [
+      "Sacha Guitry",
       "Geneviève Guitry",
       "Aimé Clariond",
       "Marguerite Moreno"
     ]
   },
   {
-    "titre": "Eternel retour",
+    "titre": "Éternel retour",
     "art": "L'",
     "titreVo": "",
     "idFilm": 47999,
@@ -216,10 +201,13 @@
     "realisateurs": "Jean Delannoy",
     "annee": 1943,
     "pays": "France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
-        "texte": "Adaptation moderne du mythe de Tristan et Yseult. Scénario et dialogues de Jean Cocteau. _Film restauré en 2K par SNC._"
+        "texte": "Transposition moderne de la légende de Tristan et Yseult."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré en 2K par SNC."
       }
     ],
     "generique": [
@@ -238,16 +226,14 @@
     "realisateurs": "Louis Daquin",
     "annee": 1942,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand."
+    }],
     "generique": [
       "Henri Guisol",
       "Renée Saint-Cyr",
-      "Colette Wilda"
+      "Michel Vitold"
     ]
   },
   {
@@ -260,16 +246,15 @@
     "realisateurs": "René Lefèvre, Claude Renoir",
     "annee": 1941,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le musicien ambulant Lampluche ayant trouve au bord d'une rivière une partition musicale et un portefeuille garni est pris à la ville voisine pour le célèbre compositeur Maxence Leroy."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Lampluche, musicien ambulant, tente de s'approprier la dernière œuvre du grand compositeur Maxence Leroy, qui veut mettre fin à ses jours. Mais le candidat au suicide change d'avis."
+    }],
     "generique": [
       "René Lefèvre",
       "Saturnin Fabre",
-      "Paulette Dubost"
+      "Paulette Dubost",
+      "Ginette Garcin"
     ]
   },
   {
@@ -283,17 +268,17 @@
     "realisateurs": "Jacques de Baroncelli",
     "annee": 1941,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "l'ingénieur Risay, la quarantaine passée, songe à refaire sa vie. Trop tard, lui assène le directeur de la mine de cuivre sur laquelle il veille et où il a sauvé dix-neuf vies humaines. A cet affront s'ajoutent des indiscrétions qui peuvent être redoutables."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Denise, jeune employée d'une mine de cuivre et fiancée à l'ouvrier Daniel, est courtisée par l'ingénieur Risay. Lorsqu'un grave accident se produit, les soupçons se portent sur Daniel, dénoncé par une lettre anonyme."
+    }],
     "generique": [
       "Pierre Renoir",
       "Jean Marais",
-      "Jean Marchat"
-    ]
+      "Bernard Blier",
+      "Élina Labourdette"
+    ],
+    "adaptation": "D'après la pièce _Le Pavillon brûle_ de Steve Passeur."
   },
   {
     "titre": "Roquevillard",
@@ -306,17 +291,17 @@
     "realisateurs": "Jean Dréville",
     "annee": 1943,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, abandonne sa famille et fuit en Italie avec la femme de Maître Frasne."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, s'enfuit en Italie avec la femme de M<sup>e</sup> Frasne, jetant le déshonneur sur sa famille."
+    }],
     "generique": [
       "Charles Vanel",
       "Aimé Clariond",
-      "Jean Pâqui"
-    ]
+      "Jean Pâqui",
+      "Mila Parély"
+    ],
+    "adaptation": "D'après le roman _Les Roquevillard_ d'Henry Bordeaux."
   },
   {
     "titre": "Vie de bohème",
@@ -329,18 +314,16 @@
     "realisateurs": "Marcel L'Herbier",
     "annee": 1942,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Quatre jeunes artistes vivent ensemble dans le Quartier latin. Avec leurs petites amies, ils partagent l'insouciance, la gaîté, les rires et les danses de la vie de bohème."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Quatre jeunes artistes vivent ensemble dans le Quartier latin, partageant avec leurs petites amies l'insouciance et la gaîté de la vie de bohème."
+    }],
     "generique": [
       "María Denis",
       "Louis Jourdan",
       "Gisèle Pascal"
     ],
-    "adaptation": "D'après le roman _Scènes de la vie de bohème_ de Henry Murger."
+    "adaptation": "D'après le roman _Scènes de la vie de bohème_ d'Henry Murger."
   },
   {
     "titre": "Visiteurs du soir",
@@ -353,13 +336,12 @@
     "realisateurs": "Marcel Carné",
     "annee": 1942,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Au XVe siècle, le Diable envoie dans un château deux ménestrels, Dominique et Gilles, afin de désespérer le monde."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "À la fin du Moyen-Âge, deux ménestrels, Gilles et Dominique, sont envoyés dans un château par le Diable en personne pour y apporter le désespoir."
+    }],
     "generique": [
+      "Alain Cuny",
       "Arletty",
       "Marie Déa",
       "Jules Berry"
@@ -375,16 +357,16 @@
     "realisateurs": "Maurice Tourneur",
     "annee": 1940,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Jeté en prison par ses créanciers, puis libéré, Volpone le marchand décide de se venger en faisant croire qu'il est à l'article de la mort et cherche un héritier. Dialogues de Jules Romains."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Jeté en prison par ses créanciers, puis libéré, le marchand Volpone prépare sa vengeance : faire croire qu'il est à l'article de la mort et qu'il recherche un héritier."
+    }],
     "generique": [
       "Harry Baur",
       "Louis Jouvet",
+      "Jacqueline Delubac",
       "Charles Dullin"
-    ]
+    ],
+    "adaptation": "D'après la pièce _Volpone_ de Ben Jonson."
   }
 ]
