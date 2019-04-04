@@ -3,107 +3,110 @@
 **Adieu Léonard**  
 de Pierre Prévert  
 France / 1943  
-Avec Charles Trenet, Pierre Brasseur, Julien Carette.  
-Léonard vend des lampions et autres farces et attrapes. Les extravagances de sa femme et de l'amant de celle-ci, Tancrède, l'ont conduit à la ruine. Il est poussé par Tancrède à faire un coup.
+Avec Pierre Brasseur, Julien Carette, Denise Grey, Charles Trenet.  
+Léonard, vendeur de farces et attrapes, est ruiné par les frasques de sa femme et de son amant. Celui-ci le pousse à monter un cambriolage chez un marchand de biens, mais Léonard est surpris par le propriétaire.
 
 **L'Assassinat du père Noël**  
 de Christian-Jaque  
 France / 1941  
 D'après le roman _L'Assassinat du père Noël_ de Pierre Véry.  
 Avec Harry Baur, Raymond Rouleau, Renée Faure.  
-Un village savoyard s'apprête à fêter Noël. Le père Cornusse, fabricant de mappemondes, se prépare à revêtir, comme chaque année, le costume rouge du bon vieillard à barbe blanche.
+Dans un village savoyard, le père Cornusse s'apprête à jouer comme chaque année le rôle du père Noël. Tandis que sa fille rêve au prince charmant, le baron du château voisin revient au pays. C'est alors qu'un homme en costume de père Noël est retrouvé mort.
 
 **Le Camion blanc**  
 de Léo Joannon  
 France / 1942  
-Avec François Périer, Jules Berry, Blanchette Brunoy.  
-Un jeune garagiste reçoit l'ordre du chef des gitans du Nord de parcourir la route suivie tout au long de sa vie par le roi des gitans, dont la dépouille est à bord de son camion blanc.
+Avec François Périer, Jules Berry, Blanchette Brunoy, Marguerite Moreno.  
+Un jeune garagiste se voit confier une étrange mission : convoyer dans son camion blanc la dépouille d'un chef gitan.
 
 **Le Capitaine Fracasse**  
 d'Abel Gance  
 France-Italie / 1942  
 Avec Fernand Gravey, Assia Noris, Jean Weber.  
-Un baron ruiné décide par amour pour une actrice de suivre une troupe ambulante. Il devient le capitaine Fracasse.
+Au XVII<sup>e</sup> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de Capitaine Fracasse.
 
 **Carmen**  
 de Christian-Jaque  
 France-Italie / 1942  
-D'après l'opéra _Carmen_ de Henri Meilhac et Ludovic Halévy.  
 D'après la nouvelle _Carmen_ de Prosper Mérimée.  
 Avec Viviane Romance, Jean Marais, Lucien Coëdel.  
-Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen.
+Séville, 1820. Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen.
 
 **Le Carrefour des enfants perdus**  
 de Léo Joannon  
 France / 1943  
-Avec René Dary, A.-M. Julien, Jean Mercanton.  
-À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain.
+Avec René Dary, A.-M. Julien, Raymond Bussières, Jean Mercanton.  
+En 1918, après l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain.
 
 **La Comédie du bonheur**  
 de Marcel L'Herbier  
 France-Italie / 1940  
-D'après la pièce _La Comédie du bonheur_ de Nicolas Evreinoff.  
+D'après une pièce de Nicolas Evreinoff.  
 Avec Michel Simon, Jacqueline Delubac, Ramon Novarro.  
-Le banquier Jourdain que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille.
+Le banquier Jourdain, que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille.
 
 **Dernier atout**  
 de Jacques Becker  
 France / 1942  
 Avec Raymond Rouleau, Mireille Balin, Pierre Renoir.  
-A Carical, capitale d'un pays imaginaire, Clarence et Montès, deux aspirants policiers, sortent ex-aequo de l'école de police. Clarence demande une épreuve pratique pour les départager.
+Dans une ville imaginaire d'Amérique du Sud, Clarence et Montès, deux aspirants policiers, sortent _ex-aequo_ de l'école de police. Pour les départager, on les charge d'élucider une affaire de meurtre.
 
 **Donne-moi tes yeux**  
 de Sacha Guitry  
 France / 1943  
-Avec Geneviève Guitry, Aimé Clariond, Marguerite Moreno.  
-Un sculpteur épouse son modèle mais devient alors dur et cassant. Perdant la vue, il veut en fait éloigner sa femme qu'il aime.
+Avec Sacha Guitry, Geneviève Guitry, Aimé Clariond, Marguerite Moreno.  
+Un célèbre sculpteur, qui vient d'épouser sa jeune modèle, se montre étrangement distant avec elle. Mais elle comprend rapidement qu'il cherche à l'éloigner pour lui dissimuler qu'il est en train de perdre la vue.
 
-**L'Eternel retour**  
+**L'Éternel retour**  
 de Jean Delannoy  
 France / 1943  
 Avec Jean Marais, Madeleine Sologne, Jean Murat.  
-Adaptation moderne du mythe de Tristan et Yseult. Scénario et dialogues de Jean Cocteau. _Film restauré en 2K par SNC._
+Transposition moderne de la légende de Tristan et Yseult.
+
+Scénario et dialogues de Jean Cocteau. Film restauré en 2K par SNC.
 
 **Madame et le mort**  
 de Louis Daquin  
 France / 1942  
-Avec Henri Guisol, Renée Saint-Cyr, Colette Wilda.  
+Avec Henri Guisol, Renée Saint-Cyr, Michel Vitold.  
 Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand.
 
 **Opéra-musette**  
 de René Lefèvre, Claude Renoir  
 France / 1941  
-Avec René Lefèvre, Saturnin Fabre, Paulette Dubost.  
-Le musicien ambulant Lampluche ayant trouve au bord d'une rivière une partition musicale et un portefeuille garni est pris à la ville voisine pour le célèbre compositeur Maxence Leroy.
+Avec René Lefèvre, Saturnin Fabre, Paulette Dubost, Ginette Garcin.  
+Lampluche, musicien ambulant, tente de s'approprier la dernière œuvre du grand compositeur Maxence Leroy, qui veut mettre fin à ses jours. Mais le candidat au suicide change d'avis.
 
 **Le Pavillon brûle**  
 de Jacques de Baroncelli  
 France / 1941  
-Avec Pierre Renoir, Jean Marais, Jean Marchat.  
-l'ingénieur Risay, la quarantaine passée, songe à refaire sa vie. Trop tard, lui assène le directeur de la mine de cuivre sur laquelle il veille et où il a sauvé dix-neuf vies humaines. A cet affront s'ajoutent des indiscrétions qui peuvent être redoutables.
+D'après la pièce _Le Pavillon brûle_ de Steve Passeur.
+Avec Pierre Renoir, Jean Marais, Bernard Blier, Élina Labourdette.  
+Denise, jeune employée d'une mine de cuivre et fiancée à l'ouvrier Daniel, est courtisée par l'ingénieur Risay. Lorsqu'un grave accident se produit, les soupçons se portent sur Daniel, dénoncé par une lettre anonyme.
 
 **Les Roquevillard**  
 de Jean Dréville  
 France / 1943  
-Avec Charles Vanel, Aimé Clariond, Jean Pâqui.  
-Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, abandonne sa famille et fuit en Italie avec la femme de Maître Frasne.
+D'après le roman _Les Roquevillard_ de Henry Bordeaux.
+Avec Charles Vanel, Aimé Clariond, Jean Pâqui, Mila Parély.  
+Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, s'enfuit en Italie avec la femme de Maître Frasne, jetant le déshonneur sur sa famille.
 
 **La Vie de bohème**  
 de Marcel L'Herbier  
 France-Italie / 1942  
 D'après le roman _Scènes de la vie de bohème_ de Henry Murger.  
 Avec María Denis, Louis Jourdan, Gisèle Pascal.  
-Quatre jeunes artistes vivent ensemble dans le Quartier latin. Avec leurs petites amies, ils partagent l'insouciance, la gaîté, les rires et les danses de la vie de bohème.
+Quatre jeunes artistes vivent ensemble dans le Quartier latin, partageant avec leurs petites amies l'insouciance et la gaîté de la vie de bohème.
 
 **Les Visiteurs du soir**  
 de Marcel Carné  
 France-Italie / 1942  
-Avec Arletty, Marie Déa, Jules Berry.  
-Au XVe siècle, le Diable envoie dans un château deux ménestrels, Dominique et Gilles, afin de désespérer le monde.
+Avec Alain Cuny, Arletty, Marie Déa, Jules Berry.  
+À la fin du Moyen-Âge, deux ménestrels, Gilles et Dominique, sont envoyés dans un château par le Diable en personne, pour y apporter le désespoir.
 
 **Volpone**  
 de Maurice Tourneur  
 France / 1940  
-Avec Harry Baur, Louis Jouvet, Charles Dullin.  
-Jeté en prison par ses créanciers, puis libéré, Volpone le marchand décide de se venger en faisant croire qu'il est à l'article de la mort et cherche un héritier. Dialogues de Jules Romains.
-
+D'après la pièce _Volpone_ de Ben Jonson.
+Avec Harry Baur, Louis Jouvet, Jacqueline Delubac, Charles Dullin.  
+Jeté en prison par ses créanciers, puis libéré, le marchand Volpone prépare sa vengeance : faire croire qu'il est à l'article de la mort et qu'il recherche un héritier.
