@@ -1,0 +1,38 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Ciné-club Jean Douchet Juin-Juillet 2019
+
+<pstyle:TITRE>La Comtesse aux pieds nus
+<pstyle:TITRE_ANG>(The Barefoot Contessa)
+<pstyle:TECHNIQUE>de Joseph L. Mankiewicz
+<pstyle:TECHNIQUE>Etats-Unis/1954/128'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Humphrey Bogart, Ava Gardner, Edmond O'Brien.
+<pstyle:SYNOPSIS>Lors des funérailles de la comtesse Torlato-Favrini, un certain nombre de personnages évoquent sa folle vie. Le réalisateur Harry Dawes raconte comment il a connu la défunte, alors qu'elle dansait dans un cabaret sous le nom de Maria Vargas.
+<pstyle:EVENEMENT>Film également projeté dans le cadre du cycle Joseph L. Mankiewicz - Catégorie principale
+<pstyle:><cstyle:INFOSROUGES>sa 29 juinXXX19h00XXX
+<cstyle:SALLESROUGES>A
+<pstyle:><cstyle:INFOSROUGES>me 10 juilXXX19h30XXX
+<cstyle:SALLESROUGES>A
+<pstyle:><cstyle:INFOSROUGES>me 17 juilXXX16h30XXX
+<cstyle:SALLESROUGES>A
+
+<pstyle:TITRE>La Terre des pharaons
+<pstyle:TITRE_ANG>(Land of the Pharaohs)
+<pstyle:TECHNIQUE>de Howard Hawks
+<pstyle:TECHNIQUE>Etats-Unis/1954/116'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Jack Hawkins, Joan Collins, Dewey Martin.
+<pstyle:SYNOPSIS>En Égypte, 3000 ans avant J.-C., le pharaon Khéops veut faire édifier son tombeau. En échange de l’édification de la sépulture la plus majestueuse et la plus inviolable jamais réalisée, il promet la liberté à un esclave-architecte.
+<pstyle:EVENEMENT>Film également projeté dans le cadre du cycle Plein les yeux 3 - Catégorie principale
+<pstyle:><cstyle:INFOSROUGES>me 17 juilXXX20h00XXX
+<cstyle:SALLESROUGES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+
+<pstyle:TITRE>Manchester by the Sea
+<pstyle:TITRE_ANG>(Manchester by the Sea)
+<pstyle:TECHNIQUE>de Kenneth Lonergan
+<pstyle:TECHNIQUE>Etats-Unis/2015/138'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Casey Affleck, Ben O'Brien, Kyle Chandler.
+<pstyle:SYNOPSIS>Lee Chandler, homme à tout faire dans un immeuble de Boston, vit en solitaire. Un jour d'hiver, il reçoit un appel qui le rappelle dans sa ville natale, Manchester-by-the-Sea. Le soudain décès de son frère fait de lui le tuteur de son neveu âgé de seize ans.
+<pstyle:><cstyle:INFOSROUGES>me 24 juilXXX19h30XXX
+<cstyle:SALLESROUGES>A

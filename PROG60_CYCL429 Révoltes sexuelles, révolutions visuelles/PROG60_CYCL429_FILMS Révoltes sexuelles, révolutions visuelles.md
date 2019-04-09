@@ -168,7 +168,7 @@ de Jonathan Caouette
 Un clip en forme de récapitulatif visuel des luttes queer.
 
 **Gouines & pédés : Refuser l'égalité des droits, c'est être homphobe !**  
-de Les Panthères Roses, Les Dures à queer  
+de Les Panthères Roses, Les DurEs à queer  
 France / 2012  
 Lors des discussions autour de la loi pour l'ouverture du mariage aux couples de même sexe, un militant prend la parole lors d'un débat radiophonique.
 
@@ -419,7 +419,7 @@ Avec Takeshi Kitano, Ryuhei Matsuda, Shinji Takeda, Tadanobu Asano.
 **Tearoom**  
 de William E. Jones  
 États-Unis / 2008  
-« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez) 
+« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez)
 
 **Théo et Hugo dans le même bateau**  
 d'Olivier Ducastel, Jacques Martineau  

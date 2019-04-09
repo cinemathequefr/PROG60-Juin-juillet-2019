@@ -155,7 +155,7 @@
         "texte": "Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque."
       },
       {
-        "typeTexte": 9,
+        "typeTexte": 99,
         "texte": "« Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste. » (Olivier Rossignot)"
       }
     ],
@@ -485,7 +485,7 @@
     "idCycle": 429,
     "idCategorie": 1976,
     "ageMinimal": 0,
-    "realisateurs": "Les Panthères Roses, Les Dures à queer",
+    "realisateurs": "Les Panthères Roses, Les DurEs à queer",
     "annee": 2012,
     "pays": "France",
     "textes": [{
@@ -757,6 +757,17 @@
       "typeTexte": 9,
       "texte": "« Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. » (Stéphane Gérard)"
     }]
+  },
+  {
+    "titre": "#Manifestation ! #Égalité ! #Maintenant !",
+    "titreVo": "",
+    "idFilm": 141593,
+    "idCycle": 429,
+    "idCategorie": 1976,
+    "ageMinimal": 0,
+    "realisateurs": "Les Panthères Roses",
+    "annee": 2013,
+    "pays": "France"
   },
   {
     "titre": "Multiple Orgasm",
