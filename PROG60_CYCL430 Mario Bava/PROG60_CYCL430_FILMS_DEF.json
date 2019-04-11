@@ -51,7 +51,7 @@
     "titreVo": "Macabro",
     "idFilm": 44242,
     "idCycle": 430,
-    "idCategorie": 1931,
+    "idCategorie": 2004,
     "ageMinimal": null,
     "realisateurs": "Lamberto Bava",
     "annee": 1980,
@@ -60,6 +60,10 @@
       {
         "typeTexte": 9,
         "texte": "Après avoir perdu simultanément son fils, tué par sa propre fille, et son amant dans un accident, Jane Baker, traumatisée, est internée en hôpital psychiatrique. Elle en sort, un an plus tard, toujours perturbée. C'est alors que sa fille la recontacte."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "L'influence de Mario Bava est évidente dans ce premier film réalisé seul par son fils Lamberto."
       }
     ],
     "generique": ["Bernice Stegers", "Stanko Molnar", "Veronica Zinny"]
@@ -92,7 +96,7 @@
     "idCycle": 430,
     "idCategorie": 1931,
     "ageMinimal": null,
-    "realisateurs": "Jacques Tourneur, Bruno Vailati, Mario Bava",
+    "realisateurs": "Jacques Tourneur",
     "annee": 1959,
     "pays": "Italie-France",
     "textes": [
@@ -102,7 +106,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Film co-réalisé avec Bruno Vailati et Mario Bava, non crédités au générique."
+        "texte": "Les producteurs firent appel à Mario Bava en tant que chef opérateur et coordinateur des effets spéciaux pour terminer le film, Jacques Tourneur ayant dépassé les semaines de tournage accordées."
       }
     ],
     "generique": [
@@ -166,13 +170,17 @@
     "idCycle": 430,
     "idCategorie": 1931,
     "ageMinimal": 0,
-    "realisateurs": "John Old",
+    "realisateurs": "John M. Old",
     "annee": 1963,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
         "texte": "Au XIX<sup>e</sup> siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Mario Bava réalisa le film sous le pseudonyme de John M. Old."
       }
     ],
     "generique": ["Daliah Lavi", "Christopher Lee", "Tony Kendall"]
@@ -216,6 +224,10 @@
       {
         "typeTexte": 9,
         "texte": "Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer un homme vers la Lune. Mais en cours de route, la mission tourne court, et la fusée explose, devenant une menace pour la Terre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film co-réalisé par Mario Bava, qui n'est crédité que comme chef opérateur."
       }
     ],
     "generique": ["Paul Hubschmid", "Madeleine Fischer", "Fiorella Mari"]
@@ -297,6 +309,10 @@
       {
         "typeTexte": 9,
         "texte": "Pour déclencher un conflit entre les États-Unis et l'Union soviétique, et dominer le monde, un savant fou crée des bombes robots prenant la forme de jeunes femmes. Seul l'agent Bill Dexter semble capable de stopper son plan machiavélique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Cette version anglaise du film _Le Spie vengono dal semifreddo_ fut réécrite, remontée, et la musique fut modifiée sans Mario Bava, à destination du public américain."
       }
     ],
     "generique": ["Vincent Price", "Fabian", "Franco Franchi"]
@@ -362,7 +378,7 @@
     "titreVo": "Ercole e la regina di Lidia",
     "idFilm": 45523,
     "idCycle": 430,
-    "idCategorie": 1931,
+    "idCategorie": 2004,
     "ageMinimal": null,
     "realisateurs": "Pietro Francisci",
     "annee": 1958,
@@ -371,6 +387,10 @@
       {
         "typeTexte": 9,
         "texte": "En route pour Thèbes, avec son épouse Iole et son fidèle compagnon Ulysse, Hercule est enlevé par des soldats de la terrible Omphale, reine de Lydie."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film co-réalisé par Mario Bava, qui n'est crédité que comme chef opérateur."
       }
     ],
     "generique": [
@@ -404,7 +424,7 @@
     "titreVo": "",
     "idFilm": 42508,
     "idCycle": 430,
-    "idCategorie": 1931,
+    "idCategorie": 2004,
     "ageMinimal": null,
     "realisateurs": "Dario Argento",
     "annee": 1979,
@@ -416,7 +436,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Deuxième volet de la _Trilogie des Enfers_, entre _Suspiria_ et _La Troisième Mère_."
+        "texte": "Deuxième volet de la _Trilogie des Enfers_, entre _Suspiria_ et _La Troisième Mère_. Mario Bava intervient en tant que réalisateur de seconde équipe et coordinateur des effets spéciaux, tandis que Lamberto Bava est assistant réalisateur."
       }
     ],
     "generique": [
@@ -463,7 +483,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Nouvelle version de _Lisa et le Diable_ entièrement remontée par Mario Bava, avec ajout de quelques séquences, à la demande des producteurs. Mécontent du résultat, le réalisateur renia le film."
+        "texte": "Nouvelle version de _Lisa et le Diable_ entièrement remontée par Mario Bava, avec ajout de quelques séquences, à la demande des producteurs pour capitaliser sur le succès du film _L'Exorciste_ de William Friedkin. Mécontent du résultat, le réalisateur renia le film."
       }
     ],
     "generique": ["Elke Sommer", "Alida Valli", "Telly Savalas"]
@@ -546,7 +566,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second s'interrompt à temps et réalise que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
+        "texte": "Deux vaisseaux envoyés en mission d’exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s’entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s’emparer de leurs corps."
       }
     ],
     "generique": ["Barry Sullivan", "Norma Bengell", "Ángel Aranda"],
@@ -565,7 +585,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes."
+        "texte": "Plusieurs versions différentes d’une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
       }
     ],
     "generique": ["Daniela Giordano", "Brett Halsey", "Dick Randall"]
@@ -666,6 +686,10 @@
       {
         "typeTexte": 9,
         "texte": "Hercule sauve la fille du roi Pélias, affronte le lion de Némée et recherche la Toison d'or en compagnie de Jason."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Mario Bava occupe le poste de chef opérateur mais serait intervenu à la réalisation."
       }
     ],
     "generique": ["Steve Reeves", "Sylva Koscina", "Fabrizio Mioni"],
@@ -707,6 +731,10 @@
       {
         "typeTexte": 9,
         "texte": "À Paris, une duchesse qui aspire à la jeunesse éternelle fait exécuter des jeunes filles pour récupérer leur sang."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Mario Bava, seulement crédité comme directeur de la photographie et des effets spéciaux, termina le film après le départ de Riccardo Freda, brouillé avec les producteurs."
       }
     ],
     "generique": ["Gianna Maria Canale", "Carlo D'Angelo"]
@@ -725,9 +753,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorrade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
+        "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
       }
     ],
-    "generique": ["Marc Porel", "Daria Nicolodi", "Fausto Di Bella"]
+    "generique": ["Marc Porel", "Daria Nicolodi", "Fausto Di Bella"],
+    "adaptation": "D'après la nouvelle _La Vénus d'Ille_ de Prosper Mérimée."
   }
 ]

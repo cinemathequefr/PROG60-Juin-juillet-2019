@@ -109,14 +109,14 @@ Pour déclencher un conflit entre les États-Unis et l'Union soviétique, et dom
 **(Ester e il re)**  
 de Raoul Walsh, Mario Bava  
 Italie-États-Unis / 1960  
-Avec Joan Collins, Richard Egan, Denis O'Dea.
-Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther.
+Avec Joan Collins, Richard Egan, Denis O'Dea.  
+Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther.
 
 **La Fille qui en savait trop**  
 **(La Ragazza che sapeva troppo)**  
 de Mario Bava  
 Italie / 1962  
-Avec Letícia Román, John Saxon, Valentina Cortese.
+Avec Letícia Román, John Saxon, Valentina Cortese.  
 Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante.
 
 **Hercule contre les vampires**  
@@ -130,7 +130,7 @@ Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux E
 **(Ercole e la regina di Lidia)**  
 de Pietro Francisci  
 Italie-France / 1958  
-Avec Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini.
+Avec Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini.  
 En route pour Thèbes, avec son épouse Iole et son fidèle compagnon Ulysse, Hercule est enlevé par des soldats de la terrible Omphale, reine de Lydie.
 
 **L'Île de l'épouvante**  
@@ -144,7 +144,7 @@ En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns 
 de Dario Argento  
 Italie / 1979  
 Avec Irene Miracle, Leigh McCloskey, Daria Nicolodi, Eleonora Giorgi.  
-À New York, Rose apprend que l'immeuble où elle vient de s'installer aurait été construit pour abriter une des trois sorcières qui dominent le monde.
+À New York, Rose apprend que l'immeuble où elle vient de s'installer aurait été construit pour abriter l'une des trois sorcières qui dominent le monde.
 
 Deuxième volet de la _Trilogie des Enfers_, entre _Suspiria_ et _La Troisième Mère_.
 
@@ -152,11 +152,11 @@ Deuxième volet de la _Trilogie des Enfers_, entre _Suspiria_ et _La Troisième 
 **(Lisa e il Diavolo)**  
 de Mario Bava  
 Italie-RFA-Espagne / 1972  
-Avec Elke Sommer, Telly Savalas, Alida Valli.
+Avec Elke Sommer, Telly Savalas, Alida Valli.  
 Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre.
 
 **La Maison de l'exorcisme**  
-**(La Casa dell' esorcismo)**  
+**(La Casa dell'esorcismo)**  
 de Mario Bava, Alfredo Leone  
 Italie-Espagne-RFA / 1975  
 Avec Elke Sommer, Telly Savalas, Alida Valli.
@@ -168,7 +168,7 @@ Nouvelle version de _Lisa et le Diable_ entièrement remontée par Mario Bava, a
 **(La Maschera del demonio)**  
 de Mario Bava  
 Italie / 1960  
-D'après la nouvelle _Vij_ de Nicolas Gogol.  
+D'après la nouvelle « Vij » de Nicolas Gogol.  
 Avec Barbara Steele, John Richardson, Ivo Garrani.  
 Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie.
 
@@ -196,7 +196,7 @@ Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Au
 **Quante volte... quella notte**  
 de Mario Bava  
 Italie-RFA / 1969  
-Avec Daniela Giordano, Brett Halsey, Dick Randall.
+Avec Daniela Giordano, Brett Halsey, Dick Randall.  
 Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes.
 
 **Une hache pour la lune de miel**  
@@ -210,7 +210,7 @@ Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. 
 **(Roy Colt e Winchester Jack)**  
 de Mario Bava  
 Italie / 1969  
-Avec Brett Halsey, Charles Southwood, Marilù Tolo, Isa Miranda.
+Avec Brett Halsey, Charles Southwood, Marilù Tolo, Isa Miranda.  
 Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif.
 
 **La Ruée des Vikings**  
