@@ -31,7 +31,7 @@ Une petite ville américaine est frappée par une série de viols particulièrem
 de Colin Eggleston  
 Australie / 1978  
 Avec John Hargreaves, Briony Behets, Mike McEwen.  
-Un couple de citadins au bord de la rupture s'installe dans un lieu isolé du littoral australien pour un week-end de camping sauvage. Peu à peu, la nature se montre inquiétante.
+Un couple de citadins au bord de la rupture s'installe dans un lieu isolé du littoral australien pour un week-end de camping sauvage. Peu à peu, la nature se montre menaçante.
 
 **Les Mains qui tuent**  
 **(Phantom Lady)**  
