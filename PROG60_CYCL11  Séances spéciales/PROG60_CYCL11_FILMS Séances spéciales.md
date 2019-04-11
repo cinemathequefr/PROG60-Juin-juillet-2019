@@ -18,19 +18,19 @@ France / 2002
 Un homme qui a perdu tout ce qu'il possédait perçoit enfin la liberté qui lui manquait jusque-là.
 
 **Jeune amour**  
-**(Molodaya lioubov)**  
+**(Molodaïa lioubov)**  
 de Mikhaïl Kobakhidzé  
 URSS / 1961  
-Un jeune géologue, rentrant d'une expédition, s'aperçoit que sa femme ne l'attend pas. Il en profite pour lui jouer quelques tours.
+Un jeune géologue rentrant d'une expédition s'aperçoit que sa femme ne l'attend pas. Il en profite pour lui jouer quelques tours.
 
 **Le Mariage**  
-**(Svad'ba)**  
+**(Svadba)**  
 de Mikhaïl Kobakhidzé  
 URSS / 1964  
-À Tbilissi, un pharmacien croise dans le trolleybus le regard d'une jeune femme. La retrouvant par hasard au Conservatoire, il échange avec elle un regard complice. Il la raccompagne, et s'imagine amoureux et aimé.
+À Tbilissi, un pharmacien croise dans le trolleybus le regard d'une jeune femme. La retrouvant par hasard au Conservatoire, il échange avec elle un regard complice. Il la raccompagne.
 
 **Les Musiciens**  
-**(Musikanty)**  
+**(Muzikanty)**  
 de Mikhaïl Kobakhidzé  
 URSS / 1969  
 Deux jeunes musiciens se rencontrent. D'abord heureux, ils commencent à se quereller, avant que la dispute ne se transforme en guerre.

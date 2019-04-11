@@ -1,0 +1,139 @@
+[
+  {
+    "titre": "Cible étoilée",
+    "art": "La",
+    "titreVo": "Brass Target",
+    "idFilm": 31920,
+    "idCycle": 14,
+    "idCategorie": 1995,
+    "ageMinimal": null,
+    "realisateurs": "John Hough",
+    "annee": 1978,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Août 1945, en Allemagne. L'or de la banque fédérale, réquisitionné par les alliés, est dérobé lors d'un transfert. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête."
+      }
+    ],
+    "generique": [
+      "Sophia Loren",
+      "John Cassavetes",
+      "George Kennedy"
+    ],
+    "adaptation": "D'après le roman _The Algonquin project_ de Frederick Nolan."
+  },
+  {
+    "titre": "Fair Game",
+    "titreVo": "",
+    "idFilm": 141540,
+    "idCycle": 14,
+    "idCategorie": 1996,
+    "ageMinimal": null,
+    "realisateurs": "Mario Andreacchio",
+    "annee": 1986,
+    "pays": "Australie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme qui garde un sanctuaire d'animaux sauvages dans l'outback australien est confrontée à trois chasseurs de kangourous décidés à s'amuser."
+      }
+    ],
+    "generique": [
+      "Cassandra Delaney",
+      "Peter Ford",
+      "David Sandford"
+    ]
+  },
+  {
+    "titre": "Homme d'Istambul",
+    "art": "L'",
+    "titreVo": "Operacion Estambul",
+    "idFilm": 53101,
+    "idCycle": 14,
+    "idCategorie": 1997,
+    "ageMinimal": null,
+    "realisateurs": "Antonio Isasi-Isasmendi",
+    "annee": 1964,
+    "pays": "Espagne-Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme agent secret est envoyée en mission à Istanbul."
+      }
+    ],
+    "generique": [
+      "Horst Buchholz",
+      "Sylva Koscina",
+      "Perrette Pradier"
+    ]
+  },
+  {
+    "titre": "Incubus",
+    "titreVo": "",
+    "idFilm": 54503,
+    "idCycle": 14,
+    "idCategorie": 1995,
+    "ageMinimal": null,
+    "realisateurs": "John Hough",
+    "annee": 1981,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une petite ville américaine est frappée par une série de viols particulièrement étranges et brutaux. Un médecin et une journaliste mènent l'enquête. Leurs soupçons se portent sur le jeune Tim, sujet à d'étranges cauchemars."
+      }
+    ],
+    "generique": [
+      "John Cassavetes",
+      "John Ireland",
+      "Kerrie Keane"
+    ]
+  },
+  {
+    "titre": "Long Week-end",
+    "titreVo": "",
+    "idFilm": 55670,
+    "idCycle": 14,
+    "idCategorie": 1996,
+    "ageMinimal": null,
+    "realisateurs": "Colin Eggleston",
+    "annee": 1978,
+    "pays": "Australie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un couple de citadins part en week-end camper dans un endroit isolé du littoral australien dans l'espoir de sauver leur mariage qui bat de l'aile."
+      }
+    ],
+    "generique": [
+      "John Hargreaves",
+      "Briony Behets",
+      "Mike Mcewen"
+    ]
+  },
+  {
+    "titre": "Mains qui tuent",
+    "art": "Les",
+    "titreVo": "Phantom Lady",
+    "idFilm": 35894,
+    "idCycle": 14,
+    "idCategorie": 1997,
+    "ageMinimal": null,
+    "realisateurs": "Robert Siodmak",
+    "annee": 1944,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Scott Henderson est accusé d'avoir assassiné sa femme. Il lui faut, pour s'innocenter, retrouver la femme au chapeau avec laquelle il a passé la soirée du meurtre."
+      }
+    ],
+    "generique": [
+      "Franchot Tone",
+      "Ella Raines",
+      "Alan Curtis"
+    ],
+    "adaptation": "D'après le roman _The Phantom lady_ de William Irish."
+  }
+]
