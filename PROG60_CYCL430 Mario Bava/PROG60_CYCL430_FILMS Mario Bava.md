@@ -5,7 +5,7 @@
 de Mario Bava  
 Italie-France / 1964  
 Avec Ken Clark, Jany Clair, Michel Lemoine.  
-Ruiné par la guerre de Sécession, un fermier désespéré s’associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s’enfuit avec le butin.
+Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin.
 
 **La Baie sanglante**  
 **(Reazione a catena)**  
@@ -28,7 +28,7 @@ Après avoir perdu simultanément son fils, tué par sa propre fille, et son ama
 de Mario Bava  
 Italie-RFA / 1971  
 Avec Joseph Cotten, Elke Sommer, Massimo Girotti.  
-Peter Kleist, originaire d’Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu’il souhaite ramener à la vie à l’aide de très anciens parchemins.
+Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins.
 
 **La Bataille de Marathon**  
 **(La Battaglia di Maratona)**  
@@ -37,14 +37,14 @@ Italie-France / 1959
 Avec Steve Reeves, Mylène Demongeot, Sergio Fantoni, Daniela Rocca.  
 Au V<sup>e</sup> siècle avant J.-C., Philippidès, récent vainqueur des Jeux olympiques, est nommé chef de la Garde Sacrée d'Athéna. Il tombe amoureux d'Andromède, mais elle est promise à Théocrite, un aristocrate ambitieux et fourbe qui manigance le retour au pouvoir du tyran Hippias.
 
-Film co-réalisé par Bruno Vailati et Mario Bava, non crédités au générique.
+Film co-réalisé avec Bruno Vailati et Mario Bava, non crédités au générique.
 
 **Caltiki, le monstre immortel**  
-**(Caltiki&nbsp;: il mostro immortale)**  
+**(Caltiki : il mostro immortale)**  
 de Robert Hampton  
 Italie / 1959  
 Avec John Merivale, Didi Sullivan, Gérard Herter.  
-Dans un temple Maya dédié à la déesse Caltiki, des scientifiques découvrent une créature informe et inquiétante qui s'en prend à l'un des archéologues.
+Dans un temple maya dédié à la déesse Caltiki, des scientifiques découvrent une créature informe et inquiétante qui s'en prend à l'un des archéologues.
 
 C'est Riccardo Freda qui réalisa ce film sous le pseudonyme de Robert Hampton, mais sa santé le contraignit à confier la fin du tournage à Mario Bava.
 
@@ -79,7 +79,7 @@ Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer u
 **(Schock)**  
 de Mario Bava  
 Italie / 1977  
-Avec Daria Nicolodi, John Steiner, David Colin Jr.
+Avec Daria Nicolodi, John Steiner, David Colin Jr.  
 Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais l'enfant change peu à peu et son comportement devient menaçant.
 
 **Les Dollars du Nebraska**  
@@ -87,30 +87,30 @@ Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec
 de Mario Bava  
 Espagne-Italie / 1966  
 Avec Ken Clark, Yvonne Bastien, Piero Lulli.  
-Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l’emprise d'un puissant propriétaire terrien qui les exploite sans scrupules.
+Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules.
 
 **Duel au couteau**  
 **(I Coltelli del vendicatore)**  
 de John Hold  
 Italie / 1966  
-Avec Cameron Mitchell, Fausto Tozzi, Giacomo Rossi Stuart.
-Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s’enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur.
+Avec Cameron Mitchell, Fausto Tozzi, Giacomo Rossi Stuart.  
+Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s'enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur.
 
 Mario Bava réalisa ce film sous le pseudonyme de John Hold.
 
 **L'Espion qui venait du surgelé**  
-**(Spie vengono dal semifreddo)**  
+**(Le Spie vengono dal semifreddo)**  
 de Mario Bava  
 Italie-États-Unis / 1966  
 Avec Vincent Price, Fabian, Franco Franchi.  
-Pour déclencher un conflit entre les États-Unis et l'Union soviétique, et dominer le monde, un savant fou crée des bombes robots prenant la forme de jeunes femmes. Seul l’agent Bill Dexter semble capable de stopper son plan machiavélique.
+Pour déclencher un conflit entre les États-Unis et l'Union soviétique, et dominer le monde, un savant fou crée des bombes robots prenant la forme de jeunes femmes. Seul l'agent Bill Dexter semble capable de stopper son plan machiavélique.
 
 **Esther et le roi**  
 **(Ester e il re)**  
 de Raoul Walsh, Mario Bava  
 Italie-États-Unis / 1960  
 Avec Joan Collins, Richard Egan, Denis O'Dea.
-Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l’égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther.
+Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther.
 
 **La Fille qui en savait trop**  
 **(La Ragazza che sapeva troppo)**  
@@ -197,7 +197,7 @@ Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Au
 de Mario Bava  
 Italie-RFA / 1969  
 Avec Daniela Giordano, Brett Halsey, Dick Randall.
-Plusieurs versions différentes d’une même nuit agitée, vue par ses différents protagonistes.
+Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes.
 
 **Une hache pour la lune de miel**  
 **(Il Rosso segno della follia)**
@@ -211,7 +211,7 @@ Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. 
 de Mario Bava  
 Italie / 1969  
 Avec Brett Halsey, Charles Southwood, Marilù Tolo, Isa Miranda.
-Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L’un poursuit sa vie de hors-la-loi tandis que l’autre devient shérif.
+Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif.
 
 **La Ruée des Vikings**  
 **(Gli Invasori)**  
@@ -231,7 +231,7 @@ Une série de meurtres est perpétrée sur les mannequins d'une maison de haute 
 **(Le Fatiche di Ercole)**  
 de Pietro Francisci  
 Italie / 1957  
-D'après le poème _ Les Argonautiques _ d'Apollonios de Rhodes.  
+D'après le poème _Les Argonautiques_ d'Apollonios de Rhodes.  
 Avec Steve Reeves, Sylva Koscina, Fabrizio Mioni.  
 Hercule sauve la fille du roi Pélias, affronte le lion de Némée et recherche la Toison d'or en compagnie de Jason.
 
@@ -253,4 +253,4 @@ Avec Gianna Maria Canale, Carlo D'Angelo.
 de Mario Bava, Lamberto Bava  
 Italie / 1978  
 Avec Marc Porel, Daria Nicolodi, Fausto Di Bella.
-Découvrant dans sa propriété une statue de Vénus, M. de Peyhorrade demande à un jeune spécialiste de l’expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue.
+Découvrant dans sa propriété une statue de Vénus, M. de Peyhorrade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue.
