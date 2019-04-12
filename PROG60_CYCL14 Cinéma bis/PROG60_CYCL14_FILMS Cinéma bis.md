@@ -1,5 +1,12 @@
 # Cinéma bis
 
+**Les Anges de l'enfer**
+**(Devil's Angels)**
+de Daniel Haller
+États-Unis / 1967
+Avec John Cassavetes, Beverly Adams, Mimsy Farmer.
+Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord.
+
 **La Cible étoilée**  
 **(Brass Target)**  
 de John Hough  

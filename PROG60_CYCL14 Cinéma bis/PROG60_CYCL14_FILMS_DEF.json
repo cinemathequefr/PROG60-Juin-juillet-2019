@@ -1,4 +1,25 @@
 [{
+    "titre": "Anges de l'enfer",
+    "art": "Les",
+    "titreVo": "Devil's Angels",
+    "idFilm": 33096,
+    "idCycle": 14,
+    "idCategorie": 1995,
+    "ageMinimal": null,
+    "realisateurs": "Daniel Haller",
+    "annee": 1967,
+    "pays": "États-Unis",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord."
+    }],
+    "generique": [
+      "John Cassavetes",
+      "Beverly Adams",
+      "Mimsy Farmer"
+    ]
+  },
+  {
     "titre": "Cible étoilée",
     "art": "La",
     "titreVo": "Brass Target",

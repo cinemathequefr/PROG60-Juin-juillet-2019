@@ -23,6 +23,21 @@ D'après le roman _Airport_ d'Arthur Hailey.
 Avec Charlton Heston, Karen Black, George Kennedy, Dana Andrews.  
 Lors d'un vol Washington-Los Angeles, un Boeing 747 est violemment percuté par un avion de tourisme. Le commandant de bord étant gravement blessé par le choc, la chef de cabine, son mari et un aiguilleur du ciel vont tenter de reprendre le contrôle de l'appareil.
 
+[30822]  
+**Abyss**  
+de James Cameron  
+États-Unis / 1989  
+Avec Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn.  
+L'équipage d'une base de forage pétrolière expérimentale est mobilisé pour récupérer les ogives nucléaires d'un sous-marin ayant sombré. L'un des plongeurs se retrouve lancé dans une odyssée fantastique à 8 000 mètres de profondeur.
+
+[36109]  
+**Airport**  
+de George Seaton  
+États-Unis / 1968  
+D'après le roman _Airport_ d'Arthur Hailey.  
+Avec Burt Lancaster, Dean Martin, Jean Seberg, Jacqueline Bisset  
+À cause d'une tempête de neige, un avion bloqué sur la piste de l'aéroport de Chicago désorganise le trafic aérien. Pendant ce temps, le pilote Vernon Demarest prépare le vol de son Boeing pour Rome, où sa maîtresse l'attend. Mais une bombe a été placée à bord de l'appareil.
+
 **Alamo**  
 **(The Alamo)**  
 de John Wayne  
